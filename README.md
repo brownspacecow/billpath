@@ -19,6 +19,9 @@ npm run dev
 npm run build
 ```
 
+The scheduled data refresh fetches up to 250 bills per run. Set `BILLS_PER_RUN`
+to a value from 1 to 250 when running the ingestion script manually.
+
 ## Data files
 - `src/data/bills.json`
 - `src/data/timelines.json`
