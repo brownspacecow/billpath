@@ -1,82 +1,753 @@
 [
   {
-    "id": "hb-221",
-    "number": "HB-221",
-    "title": "Renewable Energy Expansion Act",
-    "state": "CO",
-    "sponsor": "Rep. Ava Martinez",
-    "committee": "Energy & Utilities",
-    "topic": "Energy",
-    "currentStage": "Passed Chamber",
-    "nextStage": "Second Chamber",
-    "progress": 72,
-    "lastActivityDaysAgo": 6,
-    "daysActive": 43,
-    "totalMovements": 7,
-    "aiSummary": "Expands renewable portfolio targets and creates a grant program for grid modernization."
+    "id": "hr-119-134",
+    "number": "HR 134",
+    "title": "Protecting our Communities from Sexual Predators Act",
+    "state": "US",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": "Vern Buchanan",
+    "committee": "Judiciary Committee",
+    "committees": [
+      "Judiciary Committee"
+    ],
+    "topic": "General",
+    "currentStage": "Committee Assignment",
+    "nextStage": "Committee Review",
+    "progress": 17,
+    "lastActivityDaysAgo": 670,
+    "daysActive": 670,
+    "totalMovements": 3,
+    "aiSummary": "No summary available from source. Protecting our Communities from Sexual Predators Act",
+    "summary": "",
+    "source": "congress.gov",
+    "sourceUrl": "https://www.congress.gov/bill/119-congress/house-bill/hr-134",
+    "retrievedAt": "2026-11-04T20:27:02.900Z",
+    "introducedDate": "2025-01-03",
+    "updatedDate": "2026-09-19T23:06:36Z",
+    "latestAction": "Referred to the House Committee on the Judiciary.",
+    "latestActionDate": "2025-01-03",
+    "cosponsors": [
+      {
+        "id": "I000056",
+        "name": "Darrell Issa",
+        "party": "R",
+        "state": "CA"
+      },
+      {
+        "id": "S001212",
+        "name": "Pete Stauber",
+        "party": "R",
+        "state": "MN"
+      },
+      {
+        "id": "M001157",
+        "name": "Michael McCaul",
+        "party": "R",
+        "state": "TX"
+      },
+      {
+        "id": "B001295",
+        "name": "Mike Bost",
+        "party": "R",
+        "state": "IL"
+      },
+      {
+        "id": "W000814",
+        "name": "Randy Weber",
+        "party": "R",
+        "state": "TX"
+      },
+      {
+        "id": "E000246",
+        "name": "Chuck Edwards",
+        "party": "R",
+        "state": "NC"
+      },
+      {
+        "id": "V000135",
+        "name": "Derrick Van Orden",
+        "party": "R",
+        "state": "WI"
+      },
+      {
+        "id": "D000032",
+        "name": "Byron Donalds",
+        "party": "R",
+        "state": "FL"
+      },
+      {
+        "id": "B001302",
+        "name": "Andy Biggs",
+        "party": "R",
+        "state": "AZ"
+      },
+      {
+        "id": "S001214",
+        "name": "W. Steube",
+        "party": "R",
+        "state": "FL"
+      }
+    ],
+    "billType": "HR",
+    "billNumber": "134",
+    "originatingChamber": "house"
   },
   {
-    "id": "sb-109",
-    "number": "SB-109",
-    "title": "Water Security Infrastructure Funding",
-    "state": "AZ",
-    "sponsor": "Sen. Chris Patel",
-    "committee": "Appropriations",
-    "topic": "Water",
-    "currentStage": "Committee Vote",
-    "nextStage": "Floor Debate",
-    "progress": 45,
-    "lastActivityDaysAgo": 2,
-    "daysActive": 31,
-    "totalMovements": 5,
-    "aiSummary": "Creates bond-backed funding for county-level drought and aquifer recharge projects."
+    "id": "hr-119-173",
+    "number": "HR 173",
+    "title": "High Rise Fire Sprinkler Incentive Act of 2025",
+    "state": "US",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": "Nicole Malliotakis",
+    "committee": "Ways and Means Committee",
+    "committees": [
+      "Ways and Means Committee"
+    ],
+    "topic": "General",
+    "currentStage": "Committee Assignment",
+    "nextStage": "Committee Review",
+    "progress": 17,
+    "lastActivityDaysAgo": 670,
+    "daysActive": 670,
+    "totalMovements": 3,
+    "aiSummary": "No summary available from source. High Rise Fire Sprinkler Incentive Act of 2025",
+    "summary": "",
+    "source": "congress.gov",
+    "sourceUrl": "https://www.congress.gov/bill/119-congress/house-bill/hr-173",
+    "retrievedAt": "2026-11-04T20:27:02.900Z",
+    "introducedDate": "2025-01-03",
+    "updatedDate": "2026-03-21T08:05:55Z",
+    "latestAction": "Referred to the House Committee on Ways and Means.",
+    "latestActionDate": "2025-01-03",
+    "cosponsors": [
+      {
+        "id": "L000601",
+        "name": "Greg Landsman",
+        "party": "D",
+        "state": "OH"
+      },
+      {
+        "id": "L000557",
+        "name": "John Larson",
+        "party": "D",
+        "state": "CT"
+      },
+      {
+        "id": "S001201",
+        "name": "Thomas Suozzi",
+        "party": "D",
+        "state": "NY"
+      },
+      {
+        "id": "N000191",
+        "name": "Joe Neguse",
+        "party": "D",
+        "state": "CO"
+      },
+      {
+        "id": "F000466",
+        "name": "Brian Fitzpatrick",
+        "party": "R",
+        "state": "PA"
+      },
+      {
+        "id": "V000138",
+        "name": "Eugene Vindman",
+        "party": "D",
+        "state": "VA"
+      },
+      {
+        "id": "L000599",
+        "name": "Michael Lawler",
+        "party": "R",
+        "state": "NY"
+      },
+      {
+        "id": "M001160",
+        "name": "Gwen Moore",
+        "party": "D",
+        "state": "WI"
+      }
+    ],
+    "billType": "HR",
+    "billNumber": "173",
+    "originatingChamber": "house"
   },
   {
-    "id": "hb-412",
-    "number": "HB-412",
-    "title": "School Nutrition Modernization",
-    "state": "NM",
-    "sponsor": "Rep. Jordan Lee",
-    "committee": "Education",
-    "topic": "Education",
+    "id": "hr-119-209",
+    "number": "HR 209",
+    "title": "Inaction Has Consequences Act",
+    "state": "US",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": "Robert Wittman",
+    "committee": "Committee on House Administration",
+    "committees": [
+      "Committee on House Administration"
+    ],
+    "topic": "General",
+    "currentStage": "Committee Assignment",
+    "nextStage": "Committee Review",
+    "progress": 17,
+    "lastActivityDaysAgo": 670,
+    "daysActive": 670,
+    "totalMovements": 3,
+    "aiSummary": "No summary available from source. Inaction Has Consequences Act",
+    "summary": "",
+    "source": "congress.gov",
+    "sourceUrl": "https://www.congress.gov/bill/119-congress/house-bill/hr-209",
+    "retrievedAt": "2026-11-04T20:27:02.900Z",
+    "introducedDate": "2025-01-03",
+    "updatedDate": "2025-11-20T09:06:29Z",
+    "latestAction": "Referred to the House Committee on House Administration.",
+    "latestActionDate": "2025-01-03",
+    "cosponsors": [
+      {
+        "id": "O000177",
+        "name": "Robert Onder",
+        "party": "R",
+        "state": "MO"
+      },
+      {
+        "id": "K000399",
+        "name": "Jennifer Kiggans",
+        "party": "R",
+        "state": "VA"
+      }
+    ],
+    "billType": "HR",
+    "billNumber": "209",
+    "originatingChamber": "house"
+  },
+  {
+    "id": "hr-119-68",
+    "number": "HR 68",
+    "title": "Housing Fairness Act of 2025",
+    "state": "US",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": "Al Green",
+    "committee": "Financial Services Committee",
+    "committees": [
+      "Financial Services Committee"
+    ],
+    "topic": "General",
+    "currentStage": "Committee Assignment",
+    "nextStage": "Committee Review",
+    "progress": 17,
+    "lastActivityDaysAgo": 670,
+    "daysActive": 670,
+    "totalMovements": 3,
+    "aiSummary": "No summary available from source. Housing Fairness Act of 2025",
+    "summary": "",
+    "source": "congress.gov",
+    "sourceUrl": "https://www.congress.gov/bill/119-congress/house-bill/hr-68",
+    "retrievedAt": "2026-11-04T20:27:02.900Z",
+    "introducedDate": "2025-01-03",
+    "updatedDate": "2026-09-19T23:07:20Z",
+    "latestAction": "Referred to the House Committee on Financial Services.",
+    "latestActionDate": "2025-01-03",
+    "cosponsors": [
+      {
+        "id": "F000468",
+        "name": "Lizzie Fletcher",
+        "party": "D",
+        "state": "TX"
+      }
+    ],
+    "billType": "HR",
+    "billNumber": "68",
+    "originatingChamber": "house"
+  },
+  {
+    "id": "hr-119-166",
+    "number": "HR 166",
+    "title": "Fair Lending for All Act",
+    "state": "US",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": "Al Green",
+    "committee": "Financial Services Committee",
+    "committees": [
+      "Financial Services Committee"
+    ],
+    "topic": "General",
+    "currentStage": "Committee Assignment",
+    "nextStage": "Committee Review",
+    "progress": 17,
+    "lastActivityDaysAgo": 670,
+    "daysActive": 670,
+    "totalMovements": 3,
+    "aiSummary": "No summary available from source. Fair Lending for All Act",
+    "summary": "",
+    "source": "congress.gov",
+    "sourceUrl": "https://www.congress.gov/bill/119-congress/house-bill/hr-166",
+    "retrievedAt": "2026-11-04T20:27:02.900Z",
+    "introducedDate": "2025-01-03",
+    "updatedDate": "2026-09-01T08:06:00Z",
+    "latestAction": "Referred to the House Committee on Financial Services.",
+    "latestActionDate": "2025-01-03",
+    "cosponsors": [
+      {
+        "id": "T000481",
+        "name": "Rashida Tlaib",
+        "party": "D",
+        "state": "MI"
+      }
+    ],
+    "billType": "HR",
+    "billNumber": "166",
+    "originatingChamber": "house"
+  },
+  {
+    "id": "hr-119-28",
+    "number": "HR 28",
+    "title": "Protection of Women and Girls in Sports Act of 2025",
+    "state": "US",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": "W. Steube",
+    "committee": "Education and Workforce Committee",
+    "committees": [
+      "Education and Workforce Committee"
+    ],
+    "topic": "General",
     "currentStage": "Committee Review",
     "nextStage": "Public Hearing",
-    "progress": 28,
-    "lastActivityDaysAgo": 58,
-    "daysActive": 79,
-    "totalMovements": 3,
-    "aiSummary": "Updates school meal standards and procurement requirements across school districts."
+    "progress": 25,
+    "lastActivityDaysAgo": 658,
+    "daysActive": 670,
+    "totalMovements": 15,
+    "aiSummary": "No summary available from source. Protection of Women and Girls in Sports Act of 2025",
+    "summary": "",
+    "source": "congress.gov",
+    "sourceUrl": "https://www.congress.gov/bill/119-congress/house-bill/hr-28",
+    "retrievedAt": "2026-11-04T20:27:02.900Z",
+    "introducedDate": "2025-01-03",
+    "updatedDate": "2026-10-31T02:42:09Z",
+    "latestAction": "Received in the Senate.",
+    "latestActionDate": "2025-01-15",
+    "cosponsors": [
+      {
+        "id": "W000798",
+        "name": "Tim Walberg",
+        "party": "R",
+        "state": "MI"
+      },
+      {
+        "id": "E000298",
+        "name": "Ron Estes",
+        "party": "R",
+        "state": "KS"
+      },
+      {
+        "id": "H001093",
+        "name": "Erin Houchin",
+        "party": "R",
+        "state": "IN"
+      },
+      {
+        "id": "F000475",
+        "name": "Brad Finstad",
+        "party": "R",
+        "state": "MN"
+      },
+      {
+        "id": "H001077",
+        "name": "Clay Higgins",
+        "party": "R",
+        "state": "LA"
+      },
+      {
+        "id": "F000469",
+        "name": "Russ Fulcher",
+        "party": "R",
+        "state": "ID"
+      },
+      {
+        "id": "M000194",
+        "name": "Nancy Mace",
+        "party": "R",
+        "state": "SC"
+      },
+      {
+        "id": "O000175",
+        "name": "Andrew Ogles",
+        "party": "R",
+        "state": "TN"
+      },
+      {
+        "id": "H001096",
+        "name": "Harriet Hageman",
+        "party": "R",
+        "state": "WY"
+      },
+      {
+        "id": "B001257",
+        "name": "Gus Bilirakis",
+        "party": "R",
+        "state": "FL"
+      },
+      {
+        "id": "C001120",
+        "name": "Dan Crenshaw",
+        "party": "R",
+        "state": "TX"
+      },
+      {
+        "id": "G000589",
+        "name": "Lance Gooden",
+        "party": "R",
+        "state": "TX"
+      },
+      {
+        "id": "M001204",
+        "name": "Daniel Meuser",
+        "party": "R",
+        "state": "PA"
+      },
+      {
+        "id": "J000301",
+        "name": "Dusty Johnson",
+        "party": "R",
+        "state": "SD"
+      },
+      {
+        "id": "B001317",
+        "name": "Josh Brecheen",
+        "party": "R",
+        "state": "OK"
+      },
+      {
+        "id": "S001212",
+        "name": "Pete Stauber",
+        "party": "R",
+        "state": "MN"
+      },
+      {
+        "id": "O000086",
+        "name": "Burgess Owens",
+        "party": "R",
+        "state": "UT"
+      },
+      {
+        "id": "C001133",
+        "name": "Juan Ciscomani",
+        "party": "R",
+        "state": "AZ"
+      },
+      {
+        "id": "F000450",
+        "name": "Virginia Foxx",
+        "party": "R",
+        "state": "NC"
+      },
+      {
+        "id": "E000235",
+        "name": "Mike Ezell",
+        "party": "R",
+        "state": "MS"
+      }
+    ],
+    "billType": "HR",
+    "billNumber": "28",
+    "originatingChamber": "house"
   },
   {
-    "id": "sb-17",
-    "number": "SB-17",
-    "title": "Behavioral Health Access Act",
-    "state": "WA",
-    "sponsor": "Sen. Riley Chen",
-    "committee": "Health",
-    "topic": "Health",
+    "id": "hr-119-144",
+    "number": "HR 144",
+    "title": "Tennessee Valley Authority Salary Transparency Act",
+    "state": "US",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": "Steve Cohen",
+    "committee": "Environment and Public Works Committee",
+    "committees": [
+      "Environment and Public Works Committee",
+      "Transportation and Infrastructure Committee"
+    ],
+    "topic": "General",
+    "currentStage": "Committee Assignment",
+    "nextStage": "Committee Review",
+    "progress": 17,
+    "lastActivityDaysAgo": 657,
+    "daysActive": 670,
+    "totalMovements": 13,
+    "aiSummary": "No summary available from source. Tennessee Valley Authority Salary Transparency Act",
+    "summary": "",
+    "source": "congress.gov",
+    "sourceUrl": "https://www.congress.gov/bill/119-congress/house-bill/hr-144",
+    "retrievedAt": "2026-11-04T20:27:02.900Z",
+    "introducedDate": "2025-01-03",
+    "updatedDate": "2026-09-19T23:07:42Z",
+    "latestAction": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.",
+    "latestActionDate": "2025-01-16",
+    "cosponsors": [
+      {
+        "id": "B001309",
+        "name": "Tim Burchett",
+        "party": "R",
+        "state": "TN"
+      }
+    ],
+    "billType": "HR",
+    "billNumber": "144",
+    "originatingChamber": "house"
+  },
+  {
+    "id": "hr-119-22",
+    "number": "HR 22",
+    "title": "SAVE Act",
+    "state": "US",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": "Chip Roy",
+    "committee": "Committee on House Administration",
+    "committees": [
+      "Committee on House Administration"
+    ],
+    "topic": "General",
+    "currentStage": "Committee Review",
+    "nextStage": "Public Hearing",
+    "progress": 25,
+    "lastActivityDaysAgo": 573,
+    "daysActive": 670,
+    "totalMovements": 19,
+    "aiSummary": "No summary available from source. SAVE Act",
+    "summary": "",
+    "source": "congress.gov",
+    "sourceUrl": "https://www.congress.gov/bill/119-congress/house-bill/hr-22",
+    "retrievedAt": "2026-11-04T20:27:02.900Z",
+    "introducedDate": "2025-01-03",
+    "updatedDate": "2026-08-10T14:13:39Z",
+    "latestAction": "Received in the Senate.",
+    "latestActionDate": "2025-04-10",
+    "cosponsors": [
+      {
+        "id": "G000597",
+        "name": "Andrew Garbarino",
+        "party": "R",
+        "state": "NY"
+      },
+      {
+        "id": "M000317",
+        "name": "Nicole Malliotakis",
+        "party": "R",
+        "state": "NY"
+      },
+      {
+        "id": "F000475",
+        "name": "Brad Finstad",
+        "party": "R",
+        "state": "MN"
+      },
+      {
+        "id": "C001116",
+        "name": "Andrew Clyde",
+        "party": "R",
+        "state": "GA"
+      },
+      {
+        "id": "H001077",
+        "name": "Clay Higgins",
+        "party": "R",
+        "state": "LA"
+      },
+      {
+        "id": "H001086",
+        "name": "Diana Harshbarger",
+        "party": "R",
+        "state": "TN"
+      },
+      {
+        "id": "M000194",
+        "name": "Nancy Mace",
+        "party": "R",
+        "state": "SC"
+      },
+      {
+        "id": "C001039",
+        "name": "Kat Cammack",
+        "party": "R",
+        "state": "FL"
+      },
+      {
+        "id": "B001316",
+        "name": "Eric Burlison",
+        "party": "R",
+        "state": "MO"
+      },
+      {
+        "id": "O000175",
+        "name": "Andrew Ogles",
+        "party": "R",
+        "state": "TN"
+      },
+      {
+        "id": "H001096",
+        "name": "Harriet Hageman",
+        "party": "R",
+        "state": "WY"
+      },
+      {
+        "id": "F000469",
+        "name": "Russ Fulcher",
+        "party": "R",
+        "state": "ID"
+      },
+      {
+        "id": "N000026",
+        "name": "Troy Nehls",
+        "party": "R",
+        "state": "TX"
+      },
+      {
+        "id": "S001224",
+        "name": "Keith Self",
+        "party": "R",
+        "state": "TX"
+      },
+      {
+        "id": "P000609",
+        "name": "Gary Palmer",
+        "party": "R",
+        "state": "AL"
+      },
+      {
+        "id": "C001132",
+        "name": "Elijah Crane",
+        "party": "R",
+        "state": "AZ"
+      },
+      {
+        "id": "H001095",
+        "name": "Wesley Hunt",
+        "party": "R",
+        "state": "TX"
+      },
+      {
+        "id": "B001302",
+        "name": "Andy Biggs",
+        "party": "R",
+        "state": "AZ"
+      },
+      {
+        "id": "C001118",
+        "name": "Ben Cline",
+        "party": "R",
+        "state": "VA"
+      },
+      {
+        "id": "N000190",
+        "name": "Ralph Norman",
+        "party": "R",
+        "state": "SC"
+      }
+    ],
+    "billType": "HR",
+    "billNumber": "22",
+    "originatingChamber": "house"
+  },
+  {
+    "id": "hr-119-187",
+    "number": "HR 187",
+    "title": "MAPWaters Act of 2025",
+    "state": "US",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": "Blake Moore",
+    "committee": "Energy and Natural Resources Committee",
+    "committees": [
+      "Energy and Natural Resources Committee",
+      "Agriculture Committee",
+      "Natural Resources Committee"
+    ],
+    "topic": "Water",
     "currentStage": "Signed Into Law",
-    "nextStage": null,
-    "progress": 100,
-    "lastActivityDaysAgo": 1,
-    "daysActive": 95,
-    "totalMovements": 10,
-    "aiSummary": "Expands behavioral health provider reimbursement and telehealth parity standards."
+    "nextStage": "Vetoed",
+    "progress": 92,
+    "lastActivityDaysAgo": 313,
+    "daysActive": 670,
+    "totalMovements": 20,
+    "aiSummary": "No summary available from source. MAPWaters Act of 2025",
+    "summary": "",
+    "source": "congress.gov",
+    "sourceUrl": "https://www.congress.gov/bill/119-congress/house-bill/hr-187",
+    "retrievedAt": "2026-11-04T20:27:02.900Z",
+    "introducedDate": "2025-01-03",
+    "updatedDate": "2026-09-08T18:09:59Z",
+    "latestAction": "Became Public Law No: 119-62.",
+    "latestActionDate": "2025-12-26",
+    "cosponsors": [
+      {
+        "id": "P000613",
+        "name": "Jimmy Panetta",
+        "party": "D",
+        "state": "CA"
+      },
+      {
+        "id": "F000469",
+        "name": "Russ Fulcher",
+        "party": "R",
+        "state": "ID"
+      },
+      {
+        "id": "D000624",
+        "name": "Debbie Dingell",
+        "party": "D",
+        "state": "MI"
+      }
+    ],
+    "billType": "HR",
+    "billNumber": "187",
+    "originatingChamber": "house"
   },
   {
-    "id": "hb-400",
-    "number": "HB-400",
-    "title": "Public Transit Safety and Funding",
-    "state": "OR",
-    "sponsor": "Rep. Maya Torres",
-    "committee": "Transportation",
-    "topic": "Transportation",
-    "currentStage": "Vetoed",
-    "nextStage": null,
-    "progress": 92,
-    "lastActivityDaysAgo": 4,
-    "daysActive": 121,
-    "totalMovements": 9,
-    "aiSummary": "Would have increased transit operations grants and mandated annual safety audits."
+    "id": "hjres-119-1",
+    "number": "HJRES 1",
+    "title": "Proposing an amendment to the Constitution of the United States to require that the Supreme Court of the United States be composed of nine justices.",
+    "state": "US",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": "Andy Biggs",
+    "committee": "Judiciary Committee",
+    "committees": [
+      "Judiciary Committee"
+    ],
+    "topic": "Judiciary",
+    "currentStage": "Committee Review",
+    "nextStage": "Public Hearing",
+    "progress": 25,
+    "lastActivityDaysAgo": 63,
+    "daysActive": 670,
+    "totalMovements": 15,
+    "aiSummary": "No summary available from source. Proposing an amendment to the Constitution of the United States to require that the Supreme Court of the United States be composed of nine justices.",
+    "summary": "",
+    "source": "congress.gov",
+    "sourceUrl": "https://www.congress.gov/bill/119-congress/house-bill/hjres-1",
+    "retrievedAt": "2026-11-04T20:27:02.900Z",
+    "introducedDate": "2025-01-03",
+    "updatedDate": "2026-10-31T02:42:04Z",
+    "latestAction": "On motion to suspend the rules and pass Failed by the Yeas and Nays: (2/3 required): 212 - 206 (Roll no. 293).",
+    "latestActionDate": "2026-09-02",
+    "cosponsors": [
+      {
+        "id": "A000372",
+        "name": "Rick Allen",
+        "party": "R",
+        "state": "GA"
+      },
+      {
+        "id": "S001228",
+        "name": "Derek Schmidt",
+        "party": "R",
+        "state": "KS"
+      }
+    ],
+    "billType": "HJRES",
+    "billNumber": "1",
+    "originatingChamber": "house"
   }
 ]

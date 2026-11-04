@@ -1,12 +1,604 @@
 {
-  "hb-221": [
-    { "date": "2026-01-05", "stage": "Introduced", "label": "Introduced", "status": "complete" },
-    { "date": "2026-01-11", "stage": "Committee Assignment", "label": "Assigned To Committee", "status": "complete" },
-    { "date": "2026-01-28", "stage": "Public Hearing", "label": "Committee Hearing", "status": "complete" },
-    { "date": "2026-02-05", "stage": "Committee Vote", "label": "Reported Favorably", "status": "complete" },
-    { "date": "2026-02-18", "stage": "Passed Chamber", "label": "Passed House", "status": "current" },
-    { "date": "", "stage": "Second Chamber", "label": "Awaiting Senate Action", "status": "upcoming" },
-    { "date": "", "stage": "Executive Review", "label": "Executive Review", "status": "upcoming" },
-    { "date": "", "stage": "Signed Into Law", "label": "Signed Into Law", "status": "upcoming" }
+  "hr-119-134": [
+    {
+      "date": "2025-01-03",
+      "stage": "Committee Assignment",
+      "label": "Referred to the House Committee on the Judiciary.",
+      "status": "current"
+    },
+    {
+      "date": "2025-01-03",
+      "stage": "Introduced",
+      "label": "Introduced in House",
+      "status": "complete"
+    },
+    {
+      "date": "2025-01-03",
+      "stage": "Introduced",
+      "label": "Introduced in House",
+      "status": "complete"
+    }
+  ],
+  "hr-119-173": [
+    {
+      "date": "2025-01-03",
+      "stage": "Committee Assignment",
+      "label": "Referred to the House Committee on Ways and Means.",
+      "status": "current"
+    },
+    {
+      "date": "2025-01-03",
+      "stage": "Introduced",
+      "label": "Introduced in House",
+      "status": "complete"
+    },
+    {
+      "date": "2025-01-03",
+      "stage": "Introduced",
+      "label": "Introduced in House",
+      "status": "complete"
+    }
+  ],
+  "hr-119-209": [
+    {
+      "date": "2025-01-03",
+      "stage": "Committee Assignment",
+      "label": "Referred to the House Committee on House Administration.",
+      "status": "current"
+    },
+    {
+      "date": "2025-01-03",
+      "stage": "Introduced",
+      "label": "Introduced in House",
+      "status": "complete"
+    },
+    {
+      "date": "2025-01-03",
+      "stage": "Introduced",
+      "label": "Introduced in House",
+      "status": "complete"
+    }
+  ],
+  "hr-119-68": [
+    {
+      "date": "2025-01-03",
+      "stage": "Committee Assignment",
+      "label": "Referred to the House Committee on Financial Services.",
+      "status": "current"
+    },
+    {
+      "date": "2025-01-03",
+      "stage": "Introduced",
+      "label": "Introduced in House",
+      "status": "complete"
+    },
+    {
+      "date": "2025-01-03",
+      "stage": "Introduced",
+      "label": "Introduced in House",
+      "status": "complete"
+    }
+  ],
+  "hr-119-166": [
+    {
+      "date": "2025-01-03",
+      "stage": "Committee Assignment",
+      "label": "Referred to the House Committee on Financial Services.",
+      "status": "current"
+    },
+    {
+      "date": "2025-01-03",
+      "stage": "Introduced",
+      "label": "Introduced in House",
+      "status": "complete"
+    },
+    {
+      "date": "2025-01-03",
+      "stage": "Introduced",
+      "label": "Introduced in House",
+      "status": "complete"
+    }
+  ],
+  "hr-119-28": [
+    {
+      "date": "2025-01-03",
+      "stage": "Committee Assignment",
+      "label": "Referred to the House Committee on Education and Workforce.",
+      "status": "complete"
+    },
+    {
+      "date": "2025-01-03",
+      "stage": "Introduced",
+      "label": "Introduced in House",
+      "status": "complete"
+    },
+    {
+      "date": "2025-01-03",
+      "stage": "Introduced",
+      "label": "Introduced in House",
+      "status": "complete"
+    },
+    {
+      "date": "2025-01-14",
+      "stage": "Committee Review",
+      "label": "Motion to reconsider laid on the table Agreed to without objection.",
+      "status": "current"
+    },
+    {
+      "date": "2025-01-14",
+      "stage": "Committee Review",
+      "label": "On passage Passed by the Yeas and Nays: 218 - 206, 1 Present (Roll no. 12). (text: CR H126)",
+      "status": "current"
+    },
+    {
+      "date": "2025-01-14",
+      "stage": "Passed Chamber",
+      "label": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 218 - 206, 1 Present (Roll no. 12). (text: CR H126)",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-01-14",
+      "stage": "Committee Review",
+      "label": "On motion to recommit Failed by the Yeas and Nays: 208 - 218 (Roll no. 11).",
+      "status": "current"
+    },
+    {
+      "date": "2025-01-14",
+      "stage": "Committee Review",
+      "label": "Considered as unfinished business. (consideration: CR H139-140)",
+      "status": "current"
+    },
+    {
+      "date": "2025-01-14",
+      "stage": "Floor Debate",
+      "label": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 28, the Chair put the question on the motion to recommit and announced that the noes had prevailed. Ms. Adams demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-01-14",
+      "stage": "Committee Review",
+      "label": "The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.",
+      "status": "current"
+    },
+    {
+      "date": "2025-01-14",
+      "stage": "Committee Review",
+      "label": "Ms. Adams moved to recommit to the Committee on Education and Workforce. (text: CR H137)",
+      "status": "current"
+    },
+    {
+      "date": "2025-01-14",
+      "stage": "Committee Review",
+      "label": "The previous question was ordered pursuant to the rule.",
+      "status": "current"
+    },
+    {
+      "date": "2025-01-14",
+      "stage": "Floor Debate",
+      "label": "DEBATE - The House proceeded with one hour of debate on H.R. 28.",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-01-14",
+      "stage": "Committee Review",
+      "label": "Considered under the provisions of rule H. Res. 5. (consideration: CR H126-138)",
+      "status": "current"
+    },
+    {
+      "date": "2025-01-15",
+      "stage": "Committee Review",
+      "label": "Received in the Senate.",
+      "status": "current"
+    }
+  ],
+  "hr-119-144": [
+    {
+      "date": "2025-01-03",
+      "stage": "Committee Assignment",
+      "label": "Referred to the House Committee on Transportation and Infrastructure.",
+      "status": "current"
+    },
+    {
+      "date": "2025-01-03",
+      "stage": "Introduced",
+      "label": "Introduced in House",
+      "status": "complete"
+    },
+    {
+      "date": "2025-01-03",
+      "stage": "Introduced",
+      "label": "Introduced in House",
+      "status": "complete"
+    },
+    {
+      "date": "2025-01-04",
+      "stage": "Committee Assignment",
+      "label": "Referred to the Subcommittee on Water Resources and Environment.",
+      "status": "current"
+    },
+    {
+      "date": "2025-01-13",
+      "stage": "Floor Debate",
+      "label": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-01-13",
+      "stage": "Floor Debate",
+      "label": "DEBATE - The House proceeded with forty minutes of debate on H.R. 144.",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-01-13",
+      "stage": "Committee Review",
+      "label": "Considered under suspension of the rules. (consideration: CR H105-106)",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-01-13",
+      "stage": "Committee Review",
+      "label": "Mr. Graves moved to suspend the rules and pass the bill.",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-01-15",
+      "stage": "Committee Review",
+      "label": "Motion to reconsider laid on the table Agreed to without objection.",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-01-15",
+      "stage": "Committee Review",
+      "label": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 14). (text: 1/13/2025 CR H105)",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-01-15",
+      "stage": "Passed Chamber",
+      "label": "Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 14). (text: 1/13/2025 CR H105)",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-01-15",
+      "stage": "Committee Review",
+      "label": "Considered as unfinished business. (consideration: CR H169-170)",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-01-16",
+      "stage": "Committee Assignment",
+      "label": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.",
+      "status": "current"
+    }
+  ],
+  "hr-119-22": [
+    {
+      "date": "2025-01-03",
+      "stage": "Committee Assignment",
+      "label": "Referred to the House Committee on House Administration.",
+      "status": "complete"
+    },
+    {
+      "date": "2025-01-03",
+      "stage": "Introduced",
+      "label": "Introduced in House",
+      "status": "complete"
+    },
+    {
+      "date": "2025-01-03",
+      "stage": "Introduced",
+      "label": "Introduced in House",
+      "status": "complete"
+    },
+    {
+      "date": "2025-04-01",
+      "stage": "Floor Debate",
+      "label": "Rules Committee Resolution H. Res. 282 Reported to House. Rule provides for consideration of H.R. 22, H.R. 1526, S.J. Res. 18 and S.J. Res. 28. The resolution provides for consideration of H.R. 22, H.R. 1526, S.J. Res. 18, and S.J. Res. 28 under a closed rule. The resolution provides for one hour of debate on each measure and one motion to recommit on H.R. 22 and H.R. 1526, and one motion to commit on S.J. Res. 18 and S.J. Res. 28. The resolution also provides that H. Res. 23 and H. Res. 164 are laid on the table.",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-04-07",
+      "stage": "Floor Debate",
+      "label": "Rules Committee Resolution H. Res. 294 Reported to House. Rule provides for consideration of S.J. Res. 18, S.J. Res. 28, H.R. 1526 and H.R. 22. The resolution provides for consideration of H.R. 22, H.R. 1526, S.J. Res. 18, and S.J. Res. 28 under a closed rule. The resolution provides for one hour of debate on each measure and one motion to recommit on H.R. 22 and H.R. 1526, and one motion to commit on S.J. Res. 18 and S.J. Res. 28.",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-04-08",
+      "stage": "Passed Chamber",
+      "label": "Rule H. Res. 294 passed House.",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-04-10",
+      "stage": "Committee Review",
+      "label": "Received in the Senate.",
+      "status": "current"
+    },
+    {
+      "date": "2025-04-10",
+      "stage": "Committee Review",
+      "label": "Motion to reconsider laid on the table Agreed to without objection.",
+      "status": "current"
+    },
+    {
+      "date": "2025-04-10",
+      "stage": "Committee Review",
+      "label": "On passage Passed by the Yeas and Nays: 220 - 208 (Roll no. 102). (text: CR H1569-1571)",
+      "status": "current"
+    },
+    {
+      "date": "2025-04-10",
+      "stage": "Passed Chamber",
+      "label": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 220 - 208 (Roll no. 102).",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-04-10",
+      "stage": "Committee Review",
+      "label": "On motion to recommit Failed by the Yeas and Nays: 211 - 215 (Roll no. 101).",
+      "status": "current"
+    },
+    {
+      "date": "2025-04-10",
+      "stage": "Committee Review",
+      "label": "Considered as unfinished business. (consideration: CR H1580-1581)",
+      "status": "current"
+    },
+    {
+      "date": "2025-04-10",
+      "stage": "Floor Vote",
+      "label": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 22, the Chair put the question on motion to recommit and by voice vote, announced the noes had prevailed. Ms. Johnson (TX) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-04-10",
+      "stage": "Committee Review",
+      "label": "The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.",
+      "status": "current"
+    },
+    {
+      "date": "2025-04-10",
+      "stage": "Committee Review",
+      "label": "Ms. Johnson (TX) moved to recommit to the Committee on House Administration. (text: CR H1569)",
+      "status": "current"
+    },
+    {
+      "date": "2025-04-10",
+      "stage": "Committee Review",
+      "label": "The previous question was ordered pursuant to the rule.",
+      "status": "current"
+    },
+    {
+      "date": "2025-04-10",
+      "stage": "Floor Debate",
+      "label": "DEBATE - The House proceeded with one hour of debate on H.R. 22.",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-04-10",
+      "stage": "Floor Debate",
+      "label": "Rule provides for consideration of S.J. Res. 18, S.J. Res. 28, H.R. 1526 and H.R. 22. The resolution provides for consideration of H.R. 22, H.R. 1526, S.J. Res. 18, and S.J. Res. 28 under a closed rule. The resolution provides for one hour of debate on each measure and one motion to recommit on H.R. 22 and H.R. 1526, and one motion to commit on S.J. Res. 18 and S.J. Res. 28.",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-04-10",
+      "stage": "Committee Review",
+      "label": "Considered under the provisions of rule H. Res. 294. (consideration: CR H1569-1579)",
+      "status": "current"
+    }
+  ],
+  "hr-119-187": [
+    {
+      "date": "2025-01-21",
+      "stage": "Committee Review",
+      "label": "Motion to reconsider laid on the table Agreed to without objection.",
+      "status": "complete"
+    },
+    {
+      "date": "2025-01-21",
+      "stage": "Committee Review",
+      "label": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 19). (text: CR H238-239)",
+      "status": "complete"
+    },
+    {
+      "date": "2025-01-21",
+      "stage": "Passed Chamber",
+      "label": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 19). (text: CR H238-239)",
+      "status": "complete"
+    },
+    {
+      "date": "2025-01-21",
+      "stage": "Committee Review",
+      "label": "Considered as unfinished business. (consideration: CR H250-251)",
+      "status": "complete"
+    },
+    {
+      "date": "2025-01-21",
+      "stage": "Floor Debate",
+      "label": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.",
+      "status": "complete"
+    },
+    {
+      "date": "2025-01-21",
+      "stage": "Floor Debate",
+      "label": "DEBATE - The House proceeded with forty minutes of debate on H.R. 187.",
+      "status": "complete"
+    },
+    {
+      "date": "2025-01-21",
+      "stage": "Committee Review",
+      "label": "Considered under suspension of the rules. (consideration: CR H238-240)",
+      "status": "complete"
+    },
+    {
+      "date": "2025-01-21",
+      "stage": "Committee Review",
+      "label": "Mr. Westerman moved to suspend the rules and pass the bill, as amended.",
+      "status": "complete"
+    },
+    {
+      "date": "2025-01-22",
+      "stage": "Committee Assignment",
+      "label": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+      "status": "complete"
+    },
+    {
+      "date": "2025-12-16",
+      "stage": "Second Chamber",
+      "label": "Passed Senate without amendment by Voice Vote. (consideration: CR S8766-8768)",
+      "status": "complete"
+    },
+    {
+      "date": "2025-12-16",
+      "stage": "Second Chamber",
+      "label": "Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.",
+      "status": "complete"
+    },
+    {
+      "date": "2025-12-16",
+      "stage": "Committee Review",
+      "label": "Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.",
+      "status": "complete"
+    },
+    {
+      "date": "2025-12-16",
+      "stage": "Committee Review",
+      "label": "Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.",
+      "status": "complete"
+    },
+    {
+      "date": "2025-12-17",
+      "stage": "Committee Review",
+      "label": "Message on Senate action sent to the House.",
+      "status": "complete"
+    },
+    {
+      "date": "2025-12-18",
+      "stage": "Committee Review",
+      "label": "Presented to President.",
+      "status": "complete"
+    },
+    {
+      "date": "2025-12-18",
+      "stage": "Committee Review",
+      "label": "Presented to President.",
+      "status": "complete"
+    },
+    {
+      "date": "2025-12-26",
+      "stage": "Signed Into Law",
+      "label": "Became Public Law No: 119-62.",
+      "status": "current"
+    },
+    {
+      "date": "2025-12-26",
+      "stage": "Signed Into Law",
+      "label": "Became Public Law No: 119-62.",
+      "status": "current"
+    },
+    {
+      "date": "2025-12-26",
+      "stage": "Signed Into Law",
+      "label": "Signed by President.",
+      "status": "current"
+    },
+    {
+      "date": "2025-12-26",
+      "stage": "Signed Into Law",
+      "label": "Signed by President.",
+      "status": "current"
+    }
+  ],
+  "hjres-119-1": [
+    {
+      "date": "2025-01-03",
+      "stage": "Committee Assignment",
+      "label": "Referred to the House Committee on the Judiciary.",
+      "status": "complete"
+    },
+    {
+      "date": "2025-01-03",
+      "stage": "Introduced",
+      "label": "Introduced in House",
+      "status": "complete"
+    },
+    {
+      "date": "2025-01-03",
+      "stage": "Introduced",
+      "label": "Introduced in House",
+      "status": "complete"
+    },
+    {
+      "date": "2026-06-03",
+      "stage": "Committee Review",
+      "label": "Ordered to be Reported by the Yeas and Nays: 15 - 8.",
+      "status": "current"
+    },
+    {
+      "date": "2026-06-03",
+      "stage": "Committee Review",
+      "label": "Committee Consideration and Mark-up Session Held",
+      "status": "current"
+    },
+    {
+      "date": "2026-07-06",
+      "stage": "Committee Review",
+      "label": "Placed on the House Calendar, Calendar No. 84.",
+      "status": "current"
+    },
+    {
+      "date": "2026-07-06",
+      "stage": "Committee Vote",
+      "label": "Reported by the Committee on Judiciary. H. Rept. 119-732.",
+      "status": "upcoming"
+    },
+    {
+      "date": "2026-07-06",
+      "stage": "Committee Vote",
+      "label": "Reported by the Committee on Judiciary. H. Rept. 119-732.",
+      "status": "upcoming"
+    },
+    {
+      "date": "2026-09-02",
+      "stage": "Committee Review",
+      "label": "On motion to suspend the rules and pass Failed by the Yeas and Nays: (2/3 required): 212 - 206 (Roll no. 293).",
+      "status": "current"
+    },
+    {
+      "date": "2026-09-02",
+      "stage": "Committee Review",
+      "label": "Failed of passage/not agreed to in House On motion to suspend the rules and pass Failed by the Yeas and Nays: (2/3 required): 212 - 206 (Roll no. 293).",
+      "status": "current"
+    },
+    {
+      "date": "2026-09-02",
+      "stage": "Committee Review",
+      "label": "Considered as unfinished business. (consideration: CR H5459-5460)",
+      "status": "current"
+    },
+    {
+      "date": "2026-09-02",
+      "stage": "Floor Debate",
+      "label": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.",
+      "status": "upcoming"
+    },
+    {
+      "date": "2026-09-02",
+      "stage": "Floor Debate",
+      "label": "DEBATE - The House proceeded with one hour of debate on H.J. Res. 1.",
+      "status": "upcoming"
+    },
+    {
+      "date": "2026-09-02",
+      "stage": "Committee Review",
+      "label": "Considered under suspension of the rules. (consideration: CR H5443-5451; text: CR H5443)",
+      "status": "current"
+    },
+    {
+      "date": "2026-09-02",
+      "stage": "Committee Review",
+      "label": "Mr. Biggs (AZ) moved to suspend the rules and pass the resolution.",
+      "status": "current"
+    }
   ]
 }

@@ -37,6 +37,10 @@ export interface VoteRecord {
   no: number;
   abstain: number;
   date: string;
+  // Source attribution
+  source?: string;
+  sourceUrl?: string;
+  retrievedAt?: string;
 }
 
 export interface Bill {
@@ -54,6 +58,27 @@ export interface Bill {
   daysActive: number;
   totalMovements: number;
   aiSummary: string;
+  // Source attribution (backward-compatible extensions)
+  chamber?: string;
+  congress?: number;
+  committees?: string[];
+  summary?: string;
+  cosponsors?: Array<{
+    id: string;
+    name: string;
+    party: string;
+    state: string;
+  }>;
+  source?: string;
+  sourceUrl?: string;
+  retrievedAt?: string;
+  introducedDate?: string;
+  updatedDate?: string;
+  latestAction?: string;
+  latestActionDate?: string;
+  billType?: string;
+  billNumber?: string | number;
+  originatingChamber?: string;
 }
 
 export interface Legislator {
@@ -72,6 +97,12 @@ export interface Committee {
   description: string;
   leaders: string[];
   memberIds: string[];
+  // Source attribution
+  chamber?: string;
+  congress?: number;
+  source?: string;
+  sourceUrl?: string;
+  retrievedAt?: string;
 }
 
 export interface ActivityItem {
