@@ -1,0 +1,87 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Timeline from '../../components/Timeline.astro';
+import bills from '../../data/bills.json';
+import timelines from '../../data/timelines.json';
+import activity from '../../data/activity.json';
+import votes from '../../data/votes.json';
+import { likelyNextStep } from '../../lib/stages';
+
+export function getStaticPaths() {
+  return (bills as any).map((bill: any) => ({ params: { billId: bill.id } }));
+}
+
+const { billId } = Astro.params;
+const bill = (bills as any).find((b: any) => b.id === billId);
+if (!bill) throw new Error('Bill not found');
+const timeline = (timelines as any)[bill.id] || [];
+const billActivity = (activity as any).filter((a: any) => a.billId === bill.id);
+const billVotes = (votes as any).filter((v: any) => v.billId === bill.id);
+---
+<BaseLayout title={`${bill.number} | BillPath`}>
+  <section class="card">
+    <h1 class="text-2xl font-bold">{bill.number} — {bill.title}</h1>
+    <button id="follow-btn" class="mt-2 rounded border border-slate-300 px-3 py-1 text-sm">Follow bill</button>
+    <div class="mt-2 grid gap-2 md:grid-cols-3">
+      <div>
+        <div class="text-sm text-slate-500">Path Progress</div>
+        <div class="text-2xl font-bold">{bill.progress}%</div>
+        <div class="h-2 rounded bg-slate-200"><div class="h-2 rounded bg-blue-700" style={`width:${bill.progress}%`}></div></div>
+      </div>
+      <div>
+        <div>Current Stage: <strong>{bill.currentStage}</strong></div>
+        <div>Next Stage: <strong>{bill.nextStage ?? 'Final stage reached'}</strong></div>
+      </div>
+      <div>
+        <div>Last Activity: {bill.lastActivityDaysAgo} days ago</div>
+        <div>Total Movements: {bill.totalMovements}</div>
+        <div>Days Active: {bill.daysActive}</div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2 class="section-title">Bill Timeline</h2>
+    <Timeline events={timeline} />
+  </section>
+
+  <section class="card">
+    <h2 class="section-title">Recent Activity</h2>
+    <ul class="mt-2 space-y-2">{billActivity.map((a: any) => <li>{a.text}</li>)}</ul>
+  </section>
+
+  <section class="card">
+    <h2 class="section-title">What Happens Next</h2>
+    <p><strong>Expected Next Stage:</strong> {bill.nextStage ?? 'Complete'}</p>
+    <p><strong>Reason:</strong> {likelyNextStep(bill.currentStage)}</p>
+  </section>
+
+  <section class="card">
+    <h2 class="section-title">Vote Results</h2>
+    <ul>{billVotes.map((v: any) => <li>{v.date}: {v.result.toUpperCase()} ({v.yes}-{v.no}, abstain {v.abstain}) | {v.beforeStage} → {v.afterStage}</li>)}</ul>
+  </section>
+
+  <section class="card">
+    <h2 class="section-title">AI Generated Summary</h2>
+    <p class="text-sm">Generated Date: 2026-11-04 | Last Updated: 2026-11-04</p>
+    <p>{bill.aiSummary}</p>
+  </section>
+
+  <script is:inline define:vars={{ billId: bill.id }}>
+    const key = 'billpath-following';
+    const btn = document.getElementById('follow-btn');
+    const getItems = () => JSON.parse(localStorage.getItem(key) || '[]');
+    const sync = () => {
+      const has = getItems().includes(billId);
+      btn.textContent = has ? 'Unfollow bill' : 'Follow bill';
+    };
+    btn?.addEventListener('click', () => {
+      const set = new Set(getItems());
+      if (set.has(billId)) set.delete(billId);
+      else set.add(billId);
+      localStorage.setItem(key, JSON.stringify([...set]));
+      sync();
+    });
+    sync();
+  </script>
+</BaseLayout>

@@ -1,0 +1,13 @@
+[
+  {
+    "id": "vote-hb-221-house",
+    "billId": "hb-221",
+    "beforeStage": "Floor Vote",
+    "afterStage": "Passed Chamber",
+    "result": "pass",
+    "yes": 42,
+    "no": 23,
+    "abstain": 1,
+    "date": "2026-02-18"
+  }
+]

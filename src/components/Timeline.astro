@@ -1,0 +1,13 @@
+---
+import type { BillTimelineEvent } from '../lib/models';
+const { events = [] as BillTimelineEvent[] } = Astro.props;
+---
+<ol class="space-y-3">
+  {events.map((event: BillTimelineEvent) => (
+    <li class="card">
+      <div class="text-sm text-slate-500">{event.date || 'Pending'}</div>
+      <div class="font-semibold">{event.label}</div>
+      <div class="text-sm">{event.status === 'complete' ? '✓' : event.status === 'current' ? '◐' : '○'} {event.stage}</div>
+    </li>
+  ))}
+</ol>

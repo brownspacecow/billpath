@@ -1,0 +1,7 @@
+[
+  { "id": "a1", "billId": "hb-221", "billNumber": "HB-221", "text": "HB-221 entered committee review", "stage": "Committee Review", "timestamp": "2026-11-04T12:00:00Z" },
+  { "id": "a2", "billId": "sb-109", "billNumber": "SB-109", "text": "SB-109 passed committee vote", "stage": "Committee Vote", "timestamp": "2026-11-04T11:00:00Z" },
+  { "id": "a3", "billId": "hb-313", "billNumber": "HB-313", "text": "HB-313 scheduled for hearing", "stage": "Public Hearing", "timestamp": "2026-11-04T10:00:00Z" },
+  { "id": "a4", "billId": "sb-17", "billNumber": "SB-17", "text": "SB-17 signed into law", "stage": "Signed Into Law", "timestamp": "2026-11-04T09:00:00Z" },
+  { "id": "a5", "billId": "hb-400", "billNumber": "HB-400", "text": "HB-400 vetoed by governor", "stage": "Vetoed", "timestamp": "2026-11-04T08:00:00Z" }
+]

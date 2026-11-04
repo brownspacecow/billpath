@@ -1,0 +1,20 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import bills from '../../data/bills.json';
+const stageFilter = Astro.url.searchParams.get('stage');
+const list = stageFilter ? (bills as any).filter((b: any) => b.currentStage === stageFilter) : bills;
+---
+<BaseLayout title="Bills | BillPath">
+  <h1 class="section-title">Bill List</h1>
+  <div class="grid gap-3 md:grid-cols-2">
+    {(list as any).map((bill: any) => (
+      <a href={`/billpath/bills/${bill.id}`} class="card block hover:border-blue-500">
+        <h2 class="text-lg font-semibold">{bill.number} — {bill.title}</h2>
+        <p><strong>{bill.progress}%</strong> Complete</p>
+        <p>Current Stage: {bill.currentStage}</p>
+        <p>Last Moved: {bill.lastActivityDaysAgo} days ago</p>
+        <p>Days Active: {bill.daysActive}</p>
+      </a>
+    ))}
+  </div>
+</BaseLayout>

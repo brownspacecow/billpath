@@ -1,0 +1,21 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import legislators from '../../data/legislators.json';
+import bills from '../../data/bills.json';
+
+export function getStaticPaths() {
+  return (legislators as any).map((l: any) => ({ params: { id: l.id } }));
+}
+
+const id = (Astro.params as { id: string }).id;
+const legislator = (legislators as any).find((l: any) => l.id === id);
+if (!legislator) throw new Error('Legislator not found');
+const sponsored = (bills as any).filter((b: any) => legislator.sponsoredBillIds.includes(b.id));
+---
+<BaseLayout title={`${legislator.name} | BillPath`}>
+  <h1 class="section-title">{legislator.name}</h1>
+  <p>{legislator.party} · {legislator.state}-{legislator.district}</p>
+  <p>Committee Memberships: {legislator.committees.join(', ')}</p>
+  <h2 class="font-semibold mt-4">Legislation Sponsored</h2>
+  <ul>{sponsored.map((b: any) => <li><a href={`/billpath/bills/${b.id}`}>{b.number} — {b.currentStage}</a></li>)}</ul>
+</BaseLayout>

@@ -1,0 +1,15 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import briefings from '../data/briefings.json';
+---
+<BaseLayout title="Daily Legislative Briefings | BillPath">
+  <h1 class="section-title">Daily Legislative Briefing Archive</h1>
+  <div class="grid gap-3">
+    {(briefings as any).map((b: any) => (
+      <article class="card">
+        <h2 class="font-semibold">{b.date}</h2>
+        <p>{b.introduced} introduced · {b.enteredCommittee} entered committee · {b.hearings} hearings · {b.passedChamber} passed chamber · {b.signed} signed</p>
+      </article>
+    ))}
+  </div>
+</BaseLayout>

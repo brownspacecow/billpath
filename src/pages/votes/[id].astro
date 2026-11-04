@@ -1,0 +1,21 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import votes from '../../data/votes.json';
+import bills from '../../data/bills.json';
+
+export function getStaticPaths() {
+  return (votes as any).map((v: any) => ({ params: { id: v.id } }));
+}
+
+const id = (Astro.params as { id: string }).id;
+const vote = (votes as any).find((v: any) => v.id === id);
+if (!vote) throw new Error('Vote not found');
+const bill = (bills as any).find((b: any) => b.id === vote.billId);
+---
+<BaseLayout title={`Vote ${vote.id} | BillPath`}>
+  <h1 class="section-title">Vote Result: {vote.result.toUpperCase()}</h1>
+  <p><a href={`/billpath/bills/${bill.id}`}>{bill.number}</a></p>
+  <p>Bill Stage Before Vote: {vote.beforeStage}</p>
+  <p>Bill Stage After Vote: {vote.afterStage}</p>
+  <p>Vote Breakdown: Yes {vote.yes} / No {vote.no} / Abstain {vote.abstain}</p>
+</BaseLayout>

@@ -1,0 +1,75 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SearchBox from '../components/SearchBox';
+import PipelineChart from '../components/PipelineChart';
+import VisualizationGrid from '../components/VisualizationGrid';
+import bills from '../data/bills.json';
+import activity from '../data/activity.json';
+import briefings from '../data/briefings.json';
+import { stageCounts } from '../lib/stages';
+
+const pipelineData = stageCounts(bills as any);
+const today = (briefings as any)[0];
+const nearLaw = (bills as any).filter((b: any) => ['Executive Review', 'Second Chamber', 'Passed Chamber'].includes(b.currentStage));
+---
+<BaseLayout title="BillPath — Track bill movement" description="Track legislation through committees, hearings, votes, executive review, and final passage.">
+  <section class="card space-y-3">
+    <h1 class="text-3xl font-bold">Follow Every Bill's Journey From Introduction to Law</h1>
+    <p class="text-slate-600 dark:text-slate-300">Track legislation through committees, hearings, votes, executive review, and final passage.</p>
+    <div class="flex gap-3">
+      <a href="/billpath/bills" class="rounded bg-blue-700 px-4 py-2 font-semibold text-white">Track Bills</a>
+      <a href="#pipeline" class="rounded border border-slate-300 px-4 py-2">View Pipeline</a>
+    </div>
+  </section>
+
+  <SearchBox bills={bills as any} client:load />
+
+  <section id="pipeline" class="card space-y-3">
+    <h2 class="section-title">Legislative Pipeline</h2>
+    <p class="text-sm text-slate-500">Click a stage to view bills currently in that stage.</p>
+    <div class="grid gap-2 md:grid-cols-3">
+      {pipelineData.map((s) => (
+        <a href={`/billpath/bills?stage=${encodeURIComponent(s.stage)}`} class="rounded border border-slate-200 p-2 hover:bg-slate-100 dark:border-slate-700 dark:hover:bg-slate-700">
+          <span class="font-semibold">{s.stage}</span>
+          <span class="float-right">{s.count}</span>
+        </a>
+      ))}
+    </div>
+    <PipelineChart data={pipelineData} client:visible />
+  </section>
+
+  <section class="grid gap-4 md:grid-cols-2">
+    <div class="card">
+      <h2 class="section-title">Recent Movement Feed</h2>
+      <ul class="mt-2 space-y-2 text-sm">
+        {(activity as any).map((item: any) => <li><a href={`/billpath/bills/${item.billId}`}>{item.text}</a></li>)}
+      </ul>
+    </div>
+    <div class="card">
+      <h2 class="section-title">Today's Legislative Activity</h2>
+      <ul class="mt-2 text-sm">
+        <li>{today.introduced} Bills Introduced</li>
+        <li>{today.enteredCommittee} Entered Committee</li>
+        <li>{today.hearings} Received Hearings</li>
+        <li>{today.passedChamber} Passed Chamber</li>
+        <li>{today.signed} Signed Into Law</li>
+        <li>Most Active Committee: {today.mostActiveCommittee}</li>
+        <li>Most Followed Bill: {today.mostFollowedBill}</li>
+      </ul>
+      <a class="mt-2 inline-block text-blue-700" href="/billpath/briefings">View archive</a>
+    </div>
+  </section>
+
+  <section class="grid gap-4 md:grid-cols-2">
+    <div class="card">
+      <h2 class="section-title">Most-followed bills</h2>
+      <ul class="mt-2 space-y-2">{(bills as any).slice(0, 3).map((b: any) => <li><a href={`/billpath/bills/${b.id}`}>{b.number} — {b.title}</a></li>)}</ul>
+    </div>
+    <div class="card">
+      <h2 class="section-title">Bills closest to becoming law</h2>
+      <ul class="mt-2 space-y-2">{nearLaw.map((b: any) => <li><a href={`/billpath/bills/${b.id}`}>{b.number} — {b.currentStage}</a></li>)}</ul>
+    </div>
+  </section>
+
+  <VisualizationGrid stageData={pipelineData} client:visible />
+</BaseLayout>
