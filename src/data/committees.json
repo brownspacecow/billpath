@@ -9,7 +9,7 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/house/hsju00?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
     "id": "hswm00",
@@ -21,7 +21,7 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/house/hswm00?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
     "id": "hsha00",
@@ -33,7 +33,7 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/house/hsha00?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
     "id": "hsba00",
@@ -45,67 +45,19 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/house/hsba00?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
-    "id": "hsed00",
-    "name": "Education and Workforce Committee",
+    "id": "hsgo00",
+    "name": "Oversight and Government Reform Committee",
     "description": "",
     "chamber": "House",
     "congress": 119,
     "leaders": [],
     "memberIds": [],
     "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/committee/house/hsed00?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
-  },
-  {
-    "id": "ssev00",
-    "name": "Environment and Public Works Committee",
-    "description": "",
-    "chamber": "Senate",
-    "congress": 119,
-    "leaders": [],
-    "memberIds": [],
-    "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/committee/senate/ssev00?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
-  },
-  {
-    "id": "hspw00",
-    "name": "Transportation and Infrastructure Committee",
-    "description": "",
-    "chamber": "House",
-    "congress": 119,
-    "leaders": [],
-    "memberIds": [],
-    "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/committee/house/hspw00?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
-  },
-  {
-    "id": "sseg00",
-    "name": "Energy and Natural Resources Committee",
-    "description": "",
-    "chamber": "Senate",
-    "congress": 119,
-    "leaders": [],
-    "memberIds": [],
-    "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/committee/senate/sseg00?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
-  },
-  {
-    "id": "hsag00",
-    "name": "Agriculture Committee",
-    "description": "",
-    "chamber": "House",
-    "congress": 119,
-    "leaders": [],
-    "memberIds": [],
-    "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/committee/house/hsag00?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "sourceUrl": "https://api.congress.gov/v3/committee/house/hsgo00?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
     "id": "hsii00",
@@ -117,6 +69,294 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/house/hsii00?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "hsif00",
+    "name": "Energy and Commerce Committee",
+    "description": "",
+    "chamber": "House",
+    "congress": 119,
+    "leaders": [],
+    "memberIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/committee/house/hsif00?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "hsfa00",
+    "name": "Foreign Affairs Committee",
+    "description": "",
+    "chamber": "House",
+    "congress": 119,
+    "leaders": [],
+    "memberIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/committee/house/hsfa00?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "hsed00",
+    "name": "Education and Workforce Committee",
+    "description": "",
+    "chamber": "House",
+    "congress": 119,
+    "leaders": [],
+    "memberIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/committee/house/hsed00?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "hssy00",
+    "name": "Science, Space, and Technology Committee",
+    "description": "",
+    "chamber": "House",
+    "congress": 119,
+    "leaders": [],
+    "memberIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/committee/house/hssy00?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "hsap00",
+    "name": "Appropriations Committee",
+    "description": "",
+    "chamber": "House",
+    "congress": 119,
+    "leaders": [],
+    "memberIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/committee/house/hsap00?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "hsru00",
+    "name": "Rules Committee",
+    "description": "",
+    "chamber": "House",
+    "congress": 119,
+    "leaders": [],
+    "memberIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/committee/house/hsru00?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "hsbu00",
+    "name": "Budget Committee",
+    "description": "",
+    "chamber": "House",
+    "congress": 119,
+    "leaders": [],
+    "memberIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/committee/house/hsbu00?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "hshm00",
+    "name": "Homeland Security Committee",
+    "description": "",
+    "chamber": "House",
+    "congress": 119,
+    "leaders": [],
+    "memberIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/committee/house/hshm00?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "hsas00",
+    "name": "Armed Services Committee",
+    "description": "",
+    "chamber": "House",
+    "congress": 119,
+    "leaders": [],
+    "memberIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/committee/house/hsas00?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "hspw00",
+    "name": "Transportation and Infrastructure Committee",
+    "description": "",
+    "chamber": "House",
+    "congress": 119,
+    "leaders": [],
+    "memberIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/committee/house/hspw00?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "hsag00",
+    "name": "Agriculture Committee",
+    "description": "",
+    "chamber": "House",
+    "congress": 119,
+    "leaders": [],
+    "memberIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/committee/house/hsag00?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "hlig00",
+    "name": "Intelligence (Permanent Select) Committee",
+    "description": "",
+    "chamber": "House",
+    "congress": 119,
+    "leaders": [],
+    "memberIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/committee/house/hlig00?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "ssbk00",
+    "name": "Banking, Housing, and Urban Affairs Committee",
+    "description": "",
+    "chamber": "Senate",
+    "congress": 119,
+    "leaders": [],
+    "memberIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "sscm00",
+    "name": "Commerce, Science, and Transportation Committee",
+    "description": "",
+    "chamber": "Senate",
+    "congress": 119,
+    "leaders": [],
+    "memberIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/committee/senate/sscm00?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "ssga00",
+    "name": "Homeland Security and Governmental Affairs Committee",
+    "description": "",
+    "chamber": "Senate",
+    "congress": 119,
+    "leaders": [],
+    "memberIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/committee/senate/ssga00?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "hssm00",
+    "name": "Small Business Committee",
+    "description": "",
+    "chamber": "House",
+    "congress": 119,
+    "leaders": [],
+    "memberIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/committee/house/hssm00?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "ssev00",
+    "name": "Environment and Public Works Committee",
+    "description": "",
+    "chamber": "Senate",
+    "congress": 119,
+    "leaders": [],
+    "memberIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/committee/senate/ssev00?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "ssfi00",
+    "name": "Finance Committee",
+    "description": "",
+    "chamber": "Senate",
+    "congress": 119,
+    "leaders": [],
+    "memberIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "ssju00",
+    "name": "Judiciary Committee",
+    "description": "",
+    "chamber": "Senate",
+    "congress": 119,
+    "leaders": [],
+    "memberIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/committee/senate/ssju00?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "hsvr00",
+    "name": "Veterans' Affairs Committee",
+    "description": "",
+    "chamber": "House",
+    "congress": 119,
+    "leaders": [],
+    "memberIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/committee/house/hsvr00?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "sseg00",
+    "name": "Energy and Natural Resources Committee",
+    "description": "",
+    "chamber": "Senate",
+    "congress": 119,
+    "leaders": [],
+    "memberIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/committee/senate/sseg00?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "hsso00",
+    "name": "Ethics Committee",
+    "description": "",
+    "chamber": "House",
+    "congress": 119,
+    "leaders": [],
+    "memberIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/committee/house/hsso00?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "ssaf00",
+    "name": "Agriculture, Nutrition, and Forestry Committee",
+    "description": "",
+    "chamber": "Senate",
+    "congress": 119,
+    "leaders": [],
+    "memberIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/committee/senate/ssaf00?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "slia00",
+    "name": "Indian Affairs Committee",
+    "description": "",
+    "chamber": "Senate",
+    "congress": 119,
+    "leaders": [],
+    "memberIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/committee/senate/slia00?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   }
 ]

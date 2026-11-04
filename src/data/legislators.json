@@ -7,11 +7,18 @@
     "district": 16,
     "committees": [],
     "sponsoredBillIds": [
-      "hr-119-134"
+      "hr-119-134",
+      "hjres-119-3",
+      "hr-119-138",
+      "hr-119-137",
+      "hr-119-135",
+      "hr-119-140",
+      "hr-119-136",
+      "hr-119-139"
     ],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/B001260?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
     "id": "I000056",
@@ -23,7 +30,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/I000056?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
     "id": "S001212",
@@ -32,10 +39,12 @@
     "state": "MN",
     "district": 8,
     "committees": [],
-    "sponsoredBillIds": [],
+    "sponsoredBillIds": [
+      "hr-119-197"
+    ],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/S001212?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
     "id": "M001157",
@@ -47,7 +56,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/M001157?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
     "id": "B001295",
@@ -59,7 +68,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/B001295?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
     "id": "W000814",
@@ -71,7 +80,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/W000814?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
     "id": "E000246",
@@ -80,10 +89,12 @@
     "state": "NC",
     "district": 11,
     "committees": [],
-    "sponsoredBillIds": [],
+    "sponsoredBillIds": [
+      "hr-119-151"
+    ],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/E000246?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
     "id": "V000135",
@@ -95,7 +106,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/V000135?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
     "id": "D000032",
@@ -107,7 +118,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/D000032?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
     "id": "B001302",
@@ -117,11 +128,90 @@
     "district": 5,
     "committees": [],
     "sponsoredBillIds": [
+      "hr-119-105",
+      "hr-119-50",
+      "hr-119-96",
+      "hr-119-119",
+      "hres-119-9",
+      "hr-119-66",
+      "hr-119-83",
+      "hr-119-48",
+      "hr-119-108",
+      "hr-119-74",
+      "hr-119-114",
+      "hr-119-58",
+      "hr-119-65",
+      "hr-119-120",
+      "hr-119-95",
+      "hr-119-56",
+      "hr-119-55",
+      "hr-119-115",
+      "hr-119-110",
+      "hr-119-64",
+      "hr-119-76",
+      "hr-119-80",
+      "hr-119-123",
+      "hr-119-111",
+      "hr-119-97",
+      "hr-119-85",
+      "hr-119-100",
+      "hr-119-127",
+      "hr-119-92",
+      "hr-119-107",
+      "hjres-119-2",
+      "hr-119-63",
+      "hr-119-49",
+      "hr-119-82",
+      "hr-119-73",
+      "hr-119-90",
+      "hr-119-102",
+      "hr-119-113",
+      "hr-119-84",
+      "hres-119-8",
+      "hr-119-91",
+      "hr-119-94",
+      "hr-119-88",
+      "hr-119-106",
+      "hr-119-103",
+      "hres-119-7",
+      "hr-119-52",
+      "hr-119-70",
+      "hr-119-101",
+      "hr-119-99",
+      "hr-119-116",
+      "hr-119-78",
+      "hr-119-62",
+      "hr-119-89",
+      "hr-119-69",
+      "hr-119-87",
+      "hr-119-57",
+      "hr-119-93",
+      "hr-119-54",
+      "hr-119-118",
+      "hr-119-53",
+      "hr-119-79",
+      "hr-119-121",
+      "hr-119-117",
+      "hr-119-61",
+      "hr-119-86",
+      "hr-119-104",
+      "hr-119-125",
+      "hr-119-81",
+      "hr-119-112",
+      "hr-119-71",
+      "hr-119-72",
+      "hr-119-75",
+      "hr-119-77",
+      "hr-119-60",
+      "hr-119-67",
+      "hr-119-59",
+      "hr-119-98",
+      "hr-119-109",
       "hjres-119-1"
     ],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/B001302?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
     "id": "S001214",
@@ -135,7 +225,7 @@
     ],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/S001214?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
     "id": "M000317",
@@ -145,11 +235,15 @@
     "district": 11,
     "committees": [],
     "sponsoredBillIds": [
-      "hr-119-173"
+      "hr-119-173",
+      "hr-119-170",
+      "hr-119-172",
+      "hr-119-171",
+      "hr-119-233"
     ],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/M000317?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
     "id": "L000601",
@@ -161,7 +255,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/L000601?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
     "id": "L000557",
@@ -173,7 +267,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/L000557?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
     "id": "S001201",
@@ -185,7 +279,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/S001201?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
     "id": "N000191",
@@ -197,7 +291,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/N000191?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
     "id": "F000466",
@@ -206,10 +300,22 @@
     "state": "PA",
     "district": 1,
     "committees": [],
-    "sponsoredBillIds": [],
+    "sponsoredBillIds": [
+      "hjres-119-7",
+      "hr-119-155",
+      "hr-119-158",
+      "hjres-119-6",
+      "hr-119-156",
+      "hr-119-160",
+      "hr-119-154",
+      "hr-119-159",
+      "hjres-119-5",
+      "hr-119-157",
+      "hjres-119-4"
+    ],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/F000466?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
     "id": "V000138",
@@ -221,7 +327,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/V000138?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
     "id": "L000599",
@@ -233,7 +339,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/L000599?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
     "id": "M001160",
@@ -245,7 +351,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/M001160?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
     "id": "W000804",
@@ -255,11 +361,15 @@
     "district": 1,
     "committees": [],
     "sponsoredBillIds": [
-      "hr-119-209"
+      "hr-119-209",
+      "hres-119-12",
+      "hr-119-208",
+      "hr-119-215",
+      "hr-119-207"
     ],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/W000804?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
     "id": "O000177",
@@ -271,7 +381,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/O000177?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
     "id": "K000399",
@@ -283,7 +393,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/K000399?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
     "id": "G000553",
@@ -294,11 +404,15 @@
     "committees": [],
     "sponsoredBillIds": [
       "hr-119-68",
-      "hr-119-166"
+      "hr-119-166",
+      "hr-119-122",
+      "hr-119-126",
+      "hr-119-124",
+      "hr-119-39"
     ],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/G000553?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
     "id": "F000468",
@@ -310,7 +424,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/F000468?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
     "id": "T000481",
@@ -322,91 +436,45 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/T000481?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
-    "id": "W000798",
-    "name": "Tim Walberg",
-    "party": "R",
-    "state": "MI",
-    "district": 5,
+    "id": "M001188",
+    "name": "Grace Meng",
+    "party": "D",
+    "state": "NY",
+    "district": 6,
     "committees": [],
     "sponsoredBillIds": [],
     "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/W000798?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "sourceUrl": "https://api.congress.gov/v3/member/M001188?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
-    "id": "E000298",
-    "name": "Ron Estes",
+    "id": "S000522",
+    "name": "Christopher Smith",
     "party": "R",
-    "state": "KS",
+    "state": "NJ",
     "district": 4,
     "committees": [],
     "sponsoredBillIds": [],
     "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/E000298?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "sourceUrl": "https://api.congress.gov/v3/member/S000522?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
-    "id": "H001093",
-    "name": "Erin Houchin",
+    "id": "Y000067",
+    "name": "Rudy Yakym",
     "party": "R",
     "state": "IN",
-    "district": 9,
+    "district": 2,
     "committees": [],
-    "sponsoredBillIds": [],
+    "sponsoredBillIds": [
+      "hr-119-37"
+    ],
     "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/H001093?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
-  },
-  {
-    "id": "F000475",
-    "name": "Brad Finstad",
-    "party": "R",
-    "state": "MN",
-    "district": 1,
-    "committees": [],
-    "sponsoredBillIds": [],
-    "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/F000475?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
-  },
-  {
-    "id": "H001077",
-    "name": "Clay Higgins",
-    "party": "R",
-    "state": "LA",
-    "district": 3,
-    "committees": [],
-    "sponsoredBillIds": [],
-    "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/H001077?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
-  },
-  {
-    "id": "F000469",
-    "name": "Russ Fulcher",
-    "party": "R",
-    "state": "ID",
-    "district": 1,
-    "committees": [],
-    "sponsoredBillIds": [],
-    "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/F000469?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
-  },
-  {
-    "id": "M000194",
-    "name": "Nancy Mace",
-    "party": "R",
-    "state": "SC",
-    "district": 1,
-    "committees": [],
-    "sponsoredBillIds": [],
-    "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/M000194?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "sourceUrl": "https://api.congress.gov/v3/member/Y000067?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
     "id": "O000175",
@@ -415,278 +483,13 @@
     "state": "TN",
     "district": 5,
     "committees": [],
-    "sponsoredBillIds": [],
+    "sponsoredBillIds": [
+      "hr-119-190",
+      "hr-119-191"
+    ],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/O000175?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
-  },
-  {
-    "id": "H001096",
-    "name": "Harriet Hageman",
-    "party": "R",
-    "state": "WY",
-    "district": "",
-    "committees": [],
-    "sponsoredBillIds": [],
-    "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/H001096?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
-  },
-  {
-    "id": "B001257",
-    "name": "Gus Bilirakis",
-    "party": "R",
-    "state": "FL",
-    "district": 12,
-    "committees": [],
-    "sponsoredBillIds": [],
-    "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/B001257?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
-  },
-  {
-    "id": "C001120",
-    "name": "Dan Crenshaw",
-    "party": "R",
-    "state": "TX",
-    "district": 2,
-    "committees": [],
-    "sponsoredBillIds": [],
-    "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/C001120?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
-  },
-  {
-    "id": "G000589",
-    "name": "Lance Gooden",
-    "party": "R",
-    "state": "TX",
-    "district": 5,
-    "committees": [],
-    "sponsoredBillIds": [],
-    "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/G000589?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
-  },
-  {
-    "id": "M001204",
-    "name": "Daniel Meuser",
-    "party": "R",
-    "state": "PA",
-    "district": 9,
-    "committees": [],
-    "sponsoredBillIds": [],
-    "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/M001204?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
-  },
-  {
-    "id": "J000301",
-    "name": "Dusty Johnson",
-    "party": "R",
-    "state": "SD",
-    "district": "",
-    "committees": [],
-    "sponsoredBillIds": [],
-    "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/J000301?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
-  },
-  {
-    "id": "B001317",
-    "name": "Josh Brecheen",
-    "party": "R",
-    "state": "OK",
-    "district": 2,
-    "committees": [],
-    "sponsoredBillIds": [],
-    "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/B001317?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
-  },
-  {
-    "id": "O000086",
-    "name": "Burgess Owens",
-    "party": "R",
-    "state": "UT",
-    "district": 4,
-    "committees": [],
-    "sponsoredBillIds": [],
-    "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/O000086?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
-  },
-  {
-    "id": "C001133",
-    "name": "Juan Ciscomani",
-    "party": "R",
-    "state": "AZ",
-    "district": 6,
-    "committees": [],
-    "sponsoredBillIds": [],
-    "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/C001133?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
-  },
-  {
-    "id": "F000450",
-    "name": "Virginia Foxx",
-    "party": "R",
-    "state": "NC",
-    "district": 5,
-    "committees": [],
-    "sponsoredBillIds": [],
-    "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/F000450?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
-  },
-  {
-    "id": "E000235",
-    "name": "Mike Ezell",
-    "party": "R",
-    "state": "MS",
-    "district": 4,
-    "committees": [],
-    "sponsoredBillIds": [],
-    "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/E000235?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
-  },
-  {
-    "id": "C001068",
-    "name": "Steve Cohen",
-    "party": "D",
-    "state": "TN",
-    "district": 9,
-    "committees": [],
-    "sponsoredBillIds": [
-      "hr-119-144"
-    ],
-    "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/C001068?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
-  },
-  {
-    "id": "B001309",
-    "name": "Tim Burchett",
-    "party": "R",
-    "state": "TN",
-    "district": 2,
-    "committees": [],
-    "sponsoredBillIds": [],
-    "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/B001309?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
-  },
-  {
-    "id": "R000614",
-    "name": "Chip Roy",
-    "party": "R",
-    "state": "TX",
-    "district": 21,
-    "committees": [],
-    "sponsoredBillIds": [
-      "hr-119-22"
-    ],
-    "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/R000614?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
-  },
-  {
-    "id": "G000597",
-    "name": "Andrew Garbarino",
-    "party": "R",
-    "state": "NY",
-    "district": 2,
-    "committees": [],
-    "sponsoredBillIds": [],
-    "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/G000597?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
-  },
-  {
-    "id": "C001116",
-    "name": "Andrew Clyde",
-    "party": "R",
-    "state": "GA",
-    "district": 9,
-    "committees": [],
-    "sponsoredBillIds": [],
-    "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/C001116?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
-  },
-  {
-    "id": "H001086",
-    "name": "Diana Harshbarger",
-    "party": "R",
-    "state": "TN",
-    "district": 1,
-    "committees": [],
-    "sponsoredBillIds": [],
-    "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/H001086?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
-  },
-  {
-    "id": "C001039",
-    "name": "Kat Cammack",
-    "party": "R",
-    "state": "FL",
-    "district": 3,
-    "committees": [],
-    "sponsoredBillIds": [],
-    "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/C001039?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
-  },
-  {
-    "id": "B001316",
-    "name": "Eric Burlison",
-    "party": "R",
-    "state": "MO",
-    "district": 7,
-    "committees": [],
-    "sponsoredBillIds": [],
-    "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/B001316?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
-  },
-  {
-    "id": "N000026",
-    "name": "Troy Nehls",
-    "party": "R",
-    "state": "TX",
-    "district": 22,
-    "committees": [],
-    "sponsoredBillIds": [],
-    "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/N000026?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
-  },
-  {
-    "id": "S001224",
-    "name": "Keith Self",
-    "party": "R",
-    "state": "TX",
-    "district": 3,
-    "committees": [],
-    "sponsoredBillIds": [],
-    "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/S001224?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
-  },
-  {
-    "id": "P000609",
-    "name": "Gary Palmer",
-    "party": "R",
-    "state": "AL",
-    "district": 6,
-    "committees": [],
-    "sponsoredBillIds": [],
-    "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/P000609?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
     "id": "C001132",
@@ -698,81 +501,45 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/C001132?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
-    "id": "H001095",
-    "name": "Wesley Hunt",
+    "id": "L000596",
+    "name": "Anna Paulina Luna",
     "party": "R",
-    "state": "TX",
-    "district": 38,
+    "state": "FL",
+    "district": 13,
     "committees": [],
     "sponsoredBillIds": [],
     "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/H001095?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "sourceUrl": "https://api.congress.gov/v3/member/L000596?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
-    "id": "C001118",
-    "name": "Ben Cline",
+    "id": "F000484",
+    "name": "Randy Fine",
     "party": "R",
-    "state": "VA",
+    "state": "FL",
     "district": 6,
     "committees": [],
     "sponsoredBillIds": [],
     "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/C001118?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "sourceUrl": "https://api.congress.gov/v3/member/F000484?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
-    "id": "N000190",
-    "name": "Ralph Norman",
+    "id": "N000193",
+    "name": "Zachary Nunn",
     "party": "R",
-    "state": "SC",
-    "district": 5,
-    "committees": [],
-    "sponsoredBillIds": [],
-    "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/N000190?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
-  },
-  {
-    "id": "M001213",
-    "name": "Blake Moore",
-    "party": "R",
-    "state": "UT",
-    "district": 1,
+    "state": "IA",
+    "district": 3,
     "committees": [],
     "sponsoredBillIds": [
-      "hr-119-187"
+      "hjres-119-10"
     ],
     "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/M001213?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
-  },
-  {
-    "id": "P000613",
-    "name": "Jimmy Panetta",
-    "party": "D",
-    "state": "CA",
-    "district": 19,
-    "committees": [],
-    "sponsoredBillIds": [],
-    "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/P000613?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
-  },
-  {
-    "id": "D000624",
-    "name": "Debbie Dingell",
-    "party": "D",
-    "state": "MI",
-    "district": 6,
-    "committees": [],
-    "sponsoredBillIds": [],
-    "source": "congress.gov",
-    "sourceUrl": "https://api.congress.gov/v3/member/D000624?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "sourceUrl": "https://api.congress.gov/v3/member/N000193?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
     "id": "A000372",
@@ -784,7 +551,143 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/A000372?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "L000566",
+    "name": "Robert Latta",
+    "party": "R",
+    "state": "OH",
+    "district": 5,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/L000566?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "Z000018",
+    "name": "Ryan Zinke",
+    "party": "R",
+    "state": "MT",
+    "district": 1,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/Z000018?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "H001072",
+    "name": "J. Hill",
+    "party": "R",
+    "state": "AR",
+    "district": 2,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/H001072?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "E000298",
+    "name": "Ron Estes",
+    "party": "R",
+    "state": "KS",
+    "district": 4,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/E000298?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "H001093",
+    "name": "Erin Houchin",
+    "party": "R",
+    "state": "IN",
+    "district": 9,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/H001093?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "G000576",
+    "name": "Glenn Grothman",
+    "party": "R",
+    "state": "WI",
+    "district": 6,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/G000576?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "M000871",
+    "name": "Tracey Mann",
+    "party": "R",
+    "state": "KS",
+    "district": 1,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/M000871?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C000059",
+    "name": "Ken Calvert",
+    "party": "R",
+    "state": "CA",
+    "district": 41,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C000059?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "B001298",
+    "name": "Don Bacon",
+    "party": "R",
+    "state": "NE",
+    "district": 2,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/B001298?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "G000558",
+    "name": "Brett Guthrie",
+    "party": "R",
+    "state": "KY",
+    "district": 2,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/G000558?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "F000470",
+    "name": "Michelle Fischbach",
+    "party": "R",
+    "state": "MN",
+    "district": 7,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hres-119-5",
+      "hres-119-6",
+      "hconres-119-1"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/F000470?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   },
   {
     "id": "S001228",
@@ -796,6 +699,3779 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/S001228?format=json",
-    "retrievedAt": "2026-11-04T20:52:26.011Z"
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "W000829",
+    "name": "Tony Wied",
+    "party": "R",
+    "state": "WI",
+    "district": 8,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/W000829?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "B001317",
+    "name": "Josh Brecheen",
+    "party": "R",
+    "state": "OK",
+    "district": 2,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/B001317?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "G000565",
+    "name": "Paul Gosar",
+    "party": "R",
+    "state": "AZ",
+    "district": 9,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-34"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/G000565?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C001120",
+    "name": "Dan Crenshaw",
+    "party": "R",
+    "state": "TX",
+    "district": 2,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C001120?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "B001316",
+    "name": "Eric Burlison",
+    "party": "R",
+    "state": "MO",
+    "district": 7,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hres-119-15",
+      "hr-119-221"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/B001316?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "D000626",
+    "name": "Warren Davidson",
+    "party": "R",
+    "state": "OH",
+    "district": 8,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-147",
+      "hr-119-146",
+      "hres-119-10",
+      "hres-119-11",
+      "hr-119-145",
+      "hr-119-148",
+      "hr-119-149",
+      "hr-119-150"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/D000626?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "T000478",
+    "name": "Claudia Tenney",
+    "party": "R",
+    "state": "NY",
+    "district": 24,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-202",
+      "hr-119-200",
+      "hr-119-198",
+      "hr-119-201",
+      "hr-119-199",
+      "hr-119-203"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/T000478?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "T000460",
+    "name": "Mike Thompson",
+    "party": "D",
+    "state": "CA",
+    "district": 4,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/T000460?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "V000133",
+    "name": "Jefferson Van Drew",
+    "party": "R",
+    "state": "NJ",
+    "district": 2,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/V000133?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "D000594",
+    "name": "Monica De La Cruz",
+    "party": "R",
+    "state": "TX",
+    "district": 15,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-224"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/D000594?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "M001224",
+    "name": "Nathaniel Moran",
+    "party": "R",
+    "state": "TX",
+    "district": 1,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/M001224?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "A000369",
+    "name": "Mark Amodei",
+    "party": "R",
+    "state": "NV",
+    "district": 2,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/A000369?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "K000397",
+    "name": "Young Kim",
+    "party": "R",
+    "state": "CA",
+    "district": 40,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/K000397?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "M001223",
+    "name": "Seth Magaziner",
+    "party": "D",
+    "state": "RI",
+    "district": 2,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/M001223?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "B001327",
+    "name": "Robert Bresnahan",
+    "party": "R",
+    "state": "PA",
+    "district": 8,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/B001327?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "G000589",
+    "name": "Lance Gooden",
+    "party": "R",
+    "state": "TX",
+    "district": 5,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/G000589?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "T000469",
+    "name": "Paul Tonko",
+    "party": "D",
+    "state": "NY",
+    "district": 20,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/T000469?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "T000467",
+    "name": "Glenn Thompson",
+    "party": "R",
+    "state": "PA",
+    "district": 15,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/T000467?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "P000048",
+    "name": "August Pfluger",
+    "party": "R",
+    "state": "TX",
+    "district": 11,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-26"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/P000048?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "R000622",
+    "name": "Josh Riley",
+    "party": "D",
+    "state": "NY",
+    "district": 19,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/R000622?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "S001172",
+    "name": "Adrian Smith",
+    "party": "R",
+    "state": "NE",
+    "district": 3,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-196"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/S001172?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "K000376",
+    "name": "Mike Kelly",
+    "party": "R",
+    "state": "PA",
+    "district": 16,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/K000376?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "H001067",
+    "name": "Richard Hudson",
+    "party": "R",
+    "state": "NC",
+    "district": 9,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-38"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/H001067?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "M001205",
+    "name": "Carol Miller",
+    "party": "R",
+    "state": "WV",
+    "district": 1,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/M001205?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "M001204",
+    "name": "Daniel Meuser",
+    "party": "R",
+    "state": "PA",
+    "district": 9,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/M001204?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "F000475",
+    "name": "Brad Finstad",
+    "party": "R",
+    "state": "MN",
+    "district": 1,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/F000475?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "S000168",
+    "name": "Maria Salazar",
+    "party": "R",
+    "state": "FL",
+    "district": 27,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/S000168?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C001039",
+    "name": "Kat Cammack",
+    "party": "R",
+    "state": "FL",
+    "district": 3,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-142",
+      "hr-119-143"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C001039?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "G000591",
+    "name": "Michael Guest",
+    "party": "R",
+    "state": "MS",
+    "district": 3,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/G000591?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "H001077",
+    "name": "Clay Higgins",
+    "party": "R",
+    "state": "LA",
+    "district": 3,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-163"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/H001077?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "V000134",
+    "name": "Beth Van Duyne",
+    "party": "R",
+    "state": "TX",
+    "district": 24,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-205"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/V000134?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "R000610",
+    "name": "Guy Reschenthaler",
+    "party": "R",
+    "state": "PA",
+    "district": 14,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/R000610?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "G000568",
+    "name": "H. Griffith",
+    "party": "R",
+    "state": "VA",
+    "district": 9,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hconres-119-2",
+      "hr-119-27",
+      "hr-119-161"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/G000568?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "R000614",
+    "name": "Chip Roy",
+    "party": "R",
+    "state": "TX",
+    "district": 21,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-23",
+      "hr-119-22"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/R000614?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "S001176",
+    "name": "Steve Scalise",
+    "party": "R",
+    "state": "LA",
+    "district": 1,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hres-119-3",
+      "hres-119-2"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/S001176?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "M000194",
+    "name": "Nancy Mace",
+    "party": "R",
+    "state": "SC",
+    "district": 1,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-30"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/M000194?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "E000071",
+    "name": "Jake Ellzey",
+    "party": "R",
+    "state": "TX",
+    "district": 6,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/E000071?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "R000619",
+    "name": "Michael Rulli",
+    "party": "R",
+    "state": "OH",
+    "district": 6,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/R000619?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "T000250",
+    "name": "John Thune",
+    "party": "R",
+    "state": "SD",
+    "district": "",
+    "committees": [],
+    "sponsoredBillIds": [
+      "sconres-119-1",
+      "sconres-119-2",
+      "sres-119-1",
+      "sres-119-14",
+      "sres-119-12",
+      "sres-119-11",
+      "sres-119-9",
+      "sres-119-8",
+      "sres-119-7",
+      "sres-119-4",
+      "sres-119-3",
+      "sres-119-13",
+      "sres-119-10",
+      "sres-119-5",
+      "sres-119-2"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/T000250?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "R000395",
+    "name": "Harold Rogers",
+    "party": "R",
+    "state": "KY",
+    "district": 5,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hres-119-4"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/R000395?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "G000600",
+    "name": "Marie Perez",
+    "party": "D",
+    "state": "WA",
+    "district": 3,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hres-119-20"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/G000600?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "G000592",
+    "name": "Jared Golden",
+    "party": "D",
+    "state": "ME",
+    "district": 2,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/G000592?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "G000597",
+    "name": "Andrew Garbarino",
+    "party": "R",
+    "state": "NY",
+    "district": 2,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-31"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/G000597?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "G000581",
+    "name": "Vicente Gonzalez",
+    "party": "D",
+    "state": "TX",
+    "district": 34,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/G000581?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "P000605",
+    "name": "Scott Perry",
+    "party": "R",
+    "state": "PA",
+    "district": 10,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hjres-119-11"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/P000605?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "B001301",
+    "name": "Jack Bergman",
+    "party": "R",
+    "state": "MI",
+    "district": 1,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-47",
+      "hr-119-45",
+      "hr-119-44",
+      "hr-119-46"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/B001301?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "F000469",
+    "name": "Russ Fulcher",
+    "party": "R",
+    "state": "ID",
+    "district": 1,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/F000469?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "T000480",
+    "name": "William Timmons",
+    "party": "R",
+    "state": "SC",
+    "district": 4,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/T000480?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "B001314",
+    "name": "Aaron Bean",
+    "party": "R",
+    "state": "FL",
+    "district": 4,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/B001314?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "M001215",
+    "name": "Mariannette Miller-Meeks",
+    "party": "R",
+    "state": "IA",
+    "district": 1,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/M001215?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "L000600",
+    "name": "Nicholas Langworthy",
+    "party": "R",
+    "state": "NY",
+    "district": 23,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/L000600?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "M001212",
+    "name": "Barry Moore",
+    "party": "R",
+    "state": "AL",
+    "district": 2,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/M001212?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "M001213",
+    "name": "Blake Moore",
+    "party": "R",
+    "state": "UT",
+    "district": 1,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-186",
+      "hr-119-187"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/M001213?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C001118",
+    "name": "Ben Cline",
+    "party": "R",
+    "state": "VA",
+    "district": 6,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C001118?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "R000603",
+    "name": "David Rouzer",
+    "party": "R",
+    "state": "NC",
+    "district": 7,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-192"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/R000603?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "R000612",
+    "name": "John Rose",
+    "party": "R",
+    "state": "TN",
+    "district": 6,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/R000612?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C001103",
+    "name": "Earl Carter",
+    "party": "R",
+    "state": "GA",
+    "district": 1,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-25"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C001103?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "F000474",
+    "name": "Mike Flood",
+    "party": "R",
+    "state": "NE",
+    "district": 1,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/F000474?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "D000530",
+    "name": "Christopher Deluzio",
+    "party": "D",
+    "state": "PA",
+    "district": 17,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/D000530?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C001119",
+    "name": "Angie Craig",
+    "party": "D",
+    "state": "MN",
+    "district": 2,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C001119?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "B000825",
+    "name": "Lauren Boebert",
+    "party": "R",
+    "state": "CO",
+    "district": 3,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-133",
+      "hr-119-129",
+      "hr-119-132",
+      "hr-119-130",
+      "hr-119-128",
+      "hr-119-131"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/B000825?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "M001230",
+    "name": "Ryan Mackenzie",
+    "party": "R",
+    "state": "PA",
+    "district": 7,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/M001230?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "S001224",
+    "name": "Keith Self",
+    "party": "R",
+    "state": "TX",
+    "district": 3,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-195",
+      "hr-119-194"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/S001224?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "L000593",
+    "name": "Mike Levin",
+    "party": "D",
+    "state": "CA",
+    "district": 49,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-169"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/L000593?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "B001296",
+    "name": "Brendan Boyle",
+    "party": "D",
+    "state": "PA",
+    "district": 2,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/B001296?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "S001226",
+    "name": "Andrea Salinas",
+    "party": "D",
+    "state": "OR",
+    "district": 6,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/S001226?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "S001216",
+    "name": "Kim Schrier",
+    "party": "D",
+    "state": "WA",
+    "district": 8,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/S001216?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "K000398",
+    "name": "Thomas Kean",
+    "party": "R",
+    "state": "NJ",
+    "district": 7,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/K000398?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "N000147",
+    "name": "Eleanor Norton",
+    "party": "D",
+    "state": "DC",
+    "district": "",
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-51",
+      "hr-119-214",
+      "hr-119-189"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/N000147?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "G000603",
+    "name": "Brandon Gill",
+    "party": "R",
+    "state": "TX",
+    "district": 26,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/G000603?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "M001211",
+    "name": "Mary Miller",
+    "party": "R",
+    "state": "IL",
+    "district": 15,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/M001211?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "M001233",
+    "name": "Mark Messmer",
+    "party": "R",
+    "state": "IN",
+    "district": 8,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/M001233?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C001115",
+    "name": "Michael Cloud",
+    "party": "R",
+    "state": "TX",
+    "district": 27,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C001115?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "K000403",
+    "name": "Mike Kennedy",
+    "party": "R",
+    "state": "UT",
+    "district": 3,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/K000403?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "L000578",
+    "name": "Doug LaMalfa",
+    "party": "R",
+    "state": "CA",
+    "district": 1,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-168"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/L000578?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "H001091",
+    "name": "Ashley Hinson",
+    "party": "R",
+    "state": "IA",
+    "district": 2,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/H001091?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "K000392",
+    "name": "David Kustoff",
+    "party": "R",
+    "state": "TN",
+    "district": 8,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/K000392?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "M001222",
+    "name": "Max Miller",
+    "party": "R",
+    "state": "OH",
+    "district": 7,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/M001222?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "M001177",
+    "name": "Tom McClintock",
+    "party": "R",
+    "state": "CA",
+    "district": 5,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hjres-119-9",
+      "hr-119-182",
+      "hr-119-174",
+      "hjres-119-8",
+      "hr-119-180",
+      "hr-119-176",
+      "hr-119-178",
+      "hr-119-179",
+      "hr-119-175",
+      "hr-119-183",
+      "hr-119-177",
+      "hr-119-184",
+      "hr-119-181"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/M001177?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "H001096",
+    "name": "Harriet Hageman",
+    "party": "R",
+    "state": "WY",
+    "district": "",
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-162"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/H001096?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "D000624",
+    "name": "Debbie Dingell",
+    "party": "D",
+    "state": "MI",
+    "district": 6,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/D000624?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "S001218",
+    "name": "Melanie Stansbury",
+    "party": "D",
+    "state": "NM",
+    "district": 1,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/S001218?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "T000487",
+    "name": "Jill Tokuda",
+    "party": "D",
+    "state": "HI",
+    "district": 2,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/T000487?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "S001185",
+    "name": "Terri Sewell",
+    "party": "D",
+    "state": "AL",
+    "district": 7,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/S001185?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "K000367",
+    "name": "Amy Klobuchar",
+    "party": "D",
+    "state": "MN",
+    "district": "",
+    "committees": [],
+    "sponsoredBillIds": [
+      "sconres-119-3"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/K000367?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "F000463",
+    "name": "Deb Fischer",
+    "party": "R",
+    "state": "NE",
+    "district": "",
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/F000463?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "H001086",
+    "name": "Diana Harshbarger",
+    "party": "R",
+    "state": "TN",
+    "district": 1,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/H001086?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "M001194",
+    "name": "John Moolenaar",
+    "party": "R",
+    "state": "MI",
+    "district": 2,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/M001194?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "F000446",
+    "name": "Randy Feenstra",
+    "party": "R",
+    "state": "IA",
+    "district": 4,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/F000446?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "E000235",
+    "name": "Mike Ezell",
+    "party": "R",
+    "state": "MS",
+    "district": 4,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-152",
+      "hr-119-153"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/E000235?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "F000459",
+    "name": "Charles Fleischmann",
+    "party": "R",
+    "state": "TN",
+    "district": 3,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/F000459?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "H001058",
+    "name": "Bill Huizenga",
+    "party": "R",
+    "state": "MI",
+    "district": 4,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/H001058?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C001137",
+    "name": "Jeff Crank",
+    "party": "R",
+    "state": "CO",
+    "district": 5,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C001137?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "T000490",
+    "name": "David Taylor",
+    "party": "R",
+    "state": "OH",
+    "district": 2,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/T000490?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "S001183",
+    "name": "David Schweikert",
+    "party": "R",
+    "state": "AZ",
+    "district": 1,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-193",
+      "hr-119-237"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/S001183?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "J000302",
+    "name": "John Joyce",
+    "party": "R",
+    "state": "PA",
+    "district": 13,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/J000302?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C001116",
+    "name": "Andrew Clyde",
+    "party": "R",
+    "state": "GA",
+    "district": 9,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C001116?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "L000585",
+    "name": "Darin LaHood",
+    "party": "R",
+    "state": "IL",
+    "district": 16,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-167"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/L000585?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C001126",
+    "name": "Mike Carey",
+    "party": "R",
+    "state": "OH",
+    "district": 15,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C001126?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "R000609",
+    "name": "John Rutherford",
+    "party": "R",
+    "state": "FL",
+    "district": 5,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/R000609?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C001051",
+    "name": "John Carter",
+    "party": "R",
+    "state": "TX",
+    "district": 31,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C001051?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "S001220",
+    "name": "Dale Strong",
+    "party": "R",
+    "state": "AL",
+    "district": 5,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/S001220?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "M001218",
+    "name": "Richard McCormick",
+    "party": "R",
+    "state": "GA",
+    "district": 6,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/M001218?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "L000583",
+    "name": "Barry Loudermilk",
+    "party": "R",
+    "state": "GA",
+    "district": 11,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/L000583?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "H001052",
+    "name": "Andy Harris",
+    "party": "R",
+    "state": "MD",
+    "district": 1,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/H001052?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "H001102",
+    "name": "Mark Harris",
+    "party": "R",
+    "state": "NC",
+    "district": 8,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/H001102?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C001129",
+    "name": "Mike Collins",
+    "party": "R",
+    "state": "GA",
+    "district": 10,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-29"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C001129?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "L000598",
+    "name": "Nick LaLota",
+    "party": "R",
+    "state": "NY",
+    "district": 1,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-32"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/L000598?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "S001196",
+    "name": "Elise Stefanik",
+    "party": "R",
+    "state": "NY",
+    "district": 21,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/S001196?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "N000026",
+    "name": "Troy Nehls",
+    "party": "R",
+    "state": "TX",
+    "district": 22,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-188"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/N000026?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "W000795",
+    "name": "Joe Wilson",
+    "party": "R",
+    "state": "SC",
+    "district": 2,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-36"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/W000795?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "H001085",
+    "name": "Chrissy Houlahan",
+    "party": "D",
+    "state": "PA",
+    "district": 6,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/H001085?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C001069",
+    "name": "Joe Courtney",
+    "party": "D",
+    "state": "CT",
+    "district": 2,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C001069?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "T000488",
+    "name": "Shri Thanedar",
+    "party": "D",
+    "state": "MI",
+    "district": 13,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/T000488?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "L000590",
+    "name": "Susie Lee",
+    "party": "D",
+    "state": "NV",
+    "district": 3,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/L000590?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "O000176",
+    "name": "Johnny Olszewski",
+    "party": "D",
+    "state": "MD",
+    "district": 2,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/O000176?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "T000491",
+    "name": "Derek Tran",
+    "party": "D",
+    "state": "CA",
+    "district": 45,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/T000491?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C001123",
+    "name": "Gilbert Cisneros",
+    "party": "D",
+    "state": "CA",
+    "district": 31,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C001123?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "J000294",
+    "name": "Hakeem Jeffries",
+    "party": "D",
+    "state": "NY",
+    "district": 8,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/J000294?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C001101",
+    "name": "Katherine Clark",
+    "party": "D",
+    "state": "MA",
+    "district": 5,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C001101?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "A000371",
+    "name": "Pete Aguilar",
+    "party": "D",
+    "state": "CA",
+    "district": 33,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hres-119-14"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/A000371?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "A000370",
+    "name": "Alma Adams",
+    "party": "D",
+    "state": "NC",
+    "district": 12,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/A000370?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "A000380",
+    "name": "Gabe Amo",
+    "party": "D",
+    "state": "RI",
+    "district": 1,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/A000380?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "B001318",
+    "name": "Becca Balint",
+    "party": "D",
+    "state": "VT",
+    "district": "",
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/B001318?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "B001300",
+    "name": "Nanette Barragán",
+    "party": "D",
+    "state": "CA",
+    "district": 44,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/B001300?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "B001281",
+    "name": "Joyce Beatty",
+    "party": "D",
+    "state": "OH",
+    "district": 3,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/B001281?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "B001287",
+    "name": "Ami Bera",
+    "party": "D",
+    "state": "CA",
+    "district": 6,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/B001287?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "B001292",
+    "name": "Donald Beyer",
+    "party": "D",
+    "state": "VA",
+    "district": 8,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/B001292?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "B000490",
+    "name": "Sanford Bishop",
+    "party": "D",
+    "state": "GA",
+    "district": 2,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/B000490?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "B001278",
+    "name": "Suzanne Bonamici",
+    "party": "D",
+    "state": "OR",
+    "district": 1,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/B001278?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "B001313",
+    "name": "Shontel Brown",
+    "party": "D",
+    "state": "OH",
+    "district": 11,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/B001313?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "B001285",
+    "name": "Julia Brownley",
+    "party": "D",
+    "state": "CA",
+    "district": 26,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-211",
+      "hr-119-219",
+      "hr-119-210"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/B001285?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "B001315",
+    "name": "Nikki Budzinski",
+    "party": "D",
+    "state": "IL",
+    "district": 13,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/B001315?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C001112",
+    "name": "Salud Carbajal",
+    "party": "D",
+    "state": "CA",
+    "district": 24,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C001112?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C001072",
+    "name": "André Carson",
+    "party": "D",
+    "state": "IN",
+    "district": 7,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C001072?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C001125",
+    "name": "Troy Carter",
+    "party": "D",
+    "state": "LA",
+    "district": 2,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C001125?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C001131",
+    "name": "Greg Casar",
+    "party": "D",
+    "state": "TX",
+    "district": 35,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C001131?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "F000476",
+    "name": "Maxwell Frost",
+    "party": "D",
+    "state": "FL",
+    "district": 10,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/F000476?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "W000806",
+    "name": "Daniel Webster",
+    "party": "R",
+    "state": "FL",
+    "district": 11,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/W000806?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "S001200",
+    "name": "Darren Soto",
+    "party": "D",
+    "state": "FL",
+    "district": 9,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/S001200?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "S001221",
+    "name": "Hillary Scholten",
+    "party": "D",
+    "state": "MI",
+    "district": 3,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/S001221?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C001066",
+    "name": "Kathy Castor",
+    "party": "D",
+    "state": "FL",
+    "district": 14,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C001066?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "B001257",
+    "name": "Gus Bilirakis",
+    "party": "R",
+    "state": "FL",
+    "district": 12,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/B001257?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "H001103",
+    "name": "Pablo Hernández",
+    "party": "D",
+    "state": "PR",
+    "district": "",
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/H001103?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "W000797",
+    "name": "Debbie Wasserman Schultz",
+    "party": "D",
+    "state": "FL",
+    "district": 25,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/W000797?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "H001100",
+    "name": "Jeff Hurd",
+    "party": "R",
+    "state": "CO",
+    "district": 3,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/H001100?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "W000812",
+    "name": "Ann Wagner",
+    "party": "R",
+    "state": "MO",
+    "district": 2,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-21"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/W000812?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "H001095",
+    "name": "Wesley Hunt",
+    "party": "R",
+    "state": "TX",
+    "district": 38,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/H001095?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "O000019",
+    "name": "Jay Obernolte",
+    "party": "R",
+    "state": "CA",
+    "district": 23,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/O000019?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "O000086",
+    "name": "Burgess Owens",
+    "party": "R",
+    "state": "UT",
+    "district": 4,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/O000086?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "B001291",
+    "name": "Brian Babin",
+    "party": "R",
+    "state": "TX",
+    "district": 36,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/B001291?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "T000165",
+    "name": "Thomas Tiffany",
+    "party": "R",
+    "state": "WI",
+    "district": 7,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-204"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/T000165?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "P000617",
+    "name": "Ayanna Pressley",
+    "party": "D",
+    "state": "MA",
+    "district": 7,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-40"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/P000617?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C001055",
+    "name": "Ed Case",
+    "party": "D",
+    "state": "HI",
+    "district": 1,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C001055?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C001117",
+    "name": "Sean Casten",
+    "party": "D",
+    "state": "IL",
+    "district": 6,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C001117?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C001127",
+    "name": "Sheila Cherfilus-McCormick",
+    "party": "D",
+    "state": "FL",
+    "district": 20,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C001127?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C001080",
+    "name": "Judy Chu",
+    "party": "D",
+    "state": "CA",
+    "district": 28,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C001080?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C001067",
+    "name": "Yvette Clarke",
+    "party": "D",
+    "state": "NY",
+    "district": 9,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C001067?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C001061",
+    "name": "Emanuel Cleaver",
+    "party": "D",
+    "state": "MO",
+    "district": 5,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C001061?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C000537",
+    "name": "James Clyburn",
+    "party": "D",
+    "state": "SC",
+    "district": 6,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C000537?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C001068",
+    "name": "Steve Cohen",
+    "party": "D",
+    "state": "TN",
+    "district": 9,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hres-119-16",
+      "hr-119-144"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C001068?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C001078",
+    "name": "Gerald Connolly",
+    "party": "D",
+    "state": "VA",
+    "district": 11,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C001078?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "G000596",
+    "name": "Marjorie Greene",
+    "party": "R",
+    "state": "GA",
+    "district": 14,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/G000596?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "M001184",
+    "name": "Thomas Massie",
+    "party": "R",
+    "state": "KY",
+    "district": 4,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-24"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/M001184?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "F000478",
+    "name": "Russell Fry",
+    "party": "R",
+    "state": "SC",
+    "district": 7,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/F000478?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "B001282",
+    "name": "Andy Barr",
+    "party": "R",
+    "state": "KY",
+    "district": 6,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/B001282?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "B001325",
+    "name": "Sheri Biggs",
+    "party": "R",
+    "state": "SC",
+    "district": 3,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/B001325?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "J000311",
+    "name": "Brian Jack",
+    "party": "R",
+    "state": "GA",
+    "district": 3,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/J000311?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "B001323",
+    "name": "Nicholas Begich",
+    "party": "R",
+    "state": "AK",
+    "district": "",
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-43",
+      "hr-119-42",
+      "hr-119-41"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/B001323?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "B000740",
+    "name": "Stephanie Bice",
+    "party": "R",
+    "state": "OK",
+    "district": 5,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/B000740?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "M001210",
+    "name": "Gregory Murphy",
+    "party": "R",
+    "state": "NC",
+    "district": 3,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/M001210?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "M001236",
+    "name": "Tim Moore",
+    "party": "R",
+    "state": "NC",
+    "district": 14,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/M001236?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "P000609",
+    "name": "Gary Palmer",
+    "party": "R",
+    "state": "AL",
+    "district": 6,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/P000609?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "H001101",
+    "name": "Pat Harrigan",
+    "party": "R",
+    "state": "NC",
+    "district": 10,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/H001101?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "M001239",
+    "name": "John McGuire",
+    "party": "R",
+    "state": "VA",
+    "district": 5,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/M001239?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "S001199",
+    "name": "Lloyd Smucker",
+    "party": "R",
+    "state": "PA",
+    "district": 11,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/S001199?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "K000389",
+    "name": "Ro Khanna",
+    "party": "D",
+    "state": "CA",
+    "district": 17,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/K000389?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "G000604",
+    "name": "Maggie Goodlander",
+    "party": "D",
+    "state": "NH",
+    "district": 2,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/G000604?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "V000081",
+    "name": "Nydia Velázquez",
+    "party": "D",
+    "state": "NY",
+    "district": 7,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-206"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/V000081?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "E000297",
+    "name": "Adriano Espaillat",
+    "party": "D",
+    "state": "NY",
+    "district": 13,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/E000297?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "G000605",
+    "name": "Adam Gray",
+    "party": "D",
+    "state": "CA",
+    "district": 13,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/G000605?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "B001309",
+    "name": "Tim Burchett",
+    "party": "R",
+    "state": "TN",
+    "district": 2,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-141"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/B001309?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C001087",
+    "name": "Eric Crawford",
+    "party": "R",
+    "state": "AR",
+    "district": 1,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C001087?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "N000190",
+    "name": "Ralph Norman",
+    "party": "R",
+    "state": "SC",
+    "district": 5,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hjres-119-12"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/N000190?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "L000595",
+    "name": "Julia Letlow",
+    "party": "R",
+    "state": "LA",
+    "district": 5,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/L000595?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "M001240",
+    "name": "Addison McDowell",
+    "party": "R",
+    "state": "NC",
+    "district": 6,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/M001240?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "S001229",
+    "name": "Jefferson Shreve",
+    "party": "R",
+    "state": "IN",
+    "district": 6,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/S001229?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "M001136",
+    "name": "Lisa McClain",
+    "party": "R",
+    "state": "MI",
+    "district": 9,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hres-119-1",
+      "hres-119-13"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/M001136?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "S000148",
+    "name": "Charles Schumer",
+    "party": "D",
+    "state": "NY",
+    "district": "",
+    "committees": [],
+    "sponsoredBillIds": [
+      "sres-119-15",
+      "sres-119-6"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/S000148?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "G000583",
+    "name": "Josh Gottheimer",
+    "party": "D",
+    "state": "NJ",
+    "district": 5,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/G000583?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "H001098",
+    "name": "Abraham Hamadeh",
+    "party": "R",
+    "state": "AZ",
+    "district": 8,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/H001098?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "G000559",
+    "name": "John Garamendi",
+    "party": "D",
+    "state": "CA",
+    "district": 8,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/G000559?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "E000300",
+    "name": "Gabe Evans",
+    "party": "R",
+    "state": "CO",
+    "district": 8,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/E000300?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C001121",
+    "name": "Jason Crow",
+    "party": "D",
+    "state": "CO",
+    "district": 6,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-212"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C001121?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C001110",
+    "name": "J. Correa",
+    "party": "D",
+    "state": "CA",
+    "district": 46,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C001110?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "J000305",
+    "name": "Sara Jacobs",
+    "party": "D",
+    "state": "CA",
+    "district": 51,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/J000305?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "J000298",
+    "name": "Pramila Jayapal",
+    "party": "D",
+    "state": "WA",
+    "district": 7,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/J000298?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "T000474",
+    "name": "Norma Torres",
+    "party": "D",
+    "state": "CA",
+    "district": 35,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/T000474?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "T000193",
+    "name": "Bennie Thompson",
+    "party": "D",
+    "state": "MS",
+    "district": 2,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/T000193?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "W000822",
+    "name": "Bonnie Watson Coleman",
+    "party": "D",
+    "state": "NJ",
+    "district": 12,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/W000822?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "G000585",
+    "name": "Jimmy Gomez",
+    "party": "D",
+    "state": "CA",
+    "district": 34,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/G000585?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "P000613",
+    "name": "Jimmy Panetta",
+    "party": "D",
+    "state": "CA",
+    "district": 19,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/P000613?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "T000468",
+    "name": "Dina Titus",
+    "party": "D",
+    "state": "NV",
+    "district": 1,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/T000468?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "G000599",
+    "name": "Daniel Goldman",
+    "party": "D",
+    "state": "NY",
+    "district": 10,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/G000599?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "H001068",
+    "name": "Jared Huffman",
+    "party": "D",
+    "state": "CA",
+    "district": 2,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/H001068?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "D000399",
+    "name": "Lloyd Doggett",
+    "party": "D",
+    "state": "TX",
+    "district": 37,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/D000399?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "S001215",
+    "name": "Haley Stevens",
+    "party": "D",
+    "state": "MI",
+    "district": 11,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/S001215?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "Q000023",
+    "name": "Mike Quigley",
+    "party": "D",
+    "state": "IL",
+    "district": 5,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/Q000023?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C001059",
+    "name": "Jim Costa",
+    "party": "D",
+    "state": "CA",
+    "district": 21,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C001059?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "V000131",
+    "name": "Marc Veasey",
+    "party": "D",
+    "state": "TX",
+    "district": 33,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/V000131?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "K000375",
+    "name": "William Keating",
+    "party": "D",
+    "state": "MA",
+    "district": 9,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/K000375?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "K000009",
+    "name": "Marcy Kaptur",
+    "party": "D",
+    "state": "OH",
+    "district": 9,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/K000009?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "P000620",
+    "name": "Brittany Pettersen",
+    "party": "D",
+    "state": "CO",
+    "district": 7,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/P000620?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "M000687",
+    "name": "Kweisi Mfume",
+    "party": "D",
+    "state": "MD",
+    "district": 7,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/M000687?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "K000401",
+    "name": "Kevin Kiley",
+    "party": "R",
+    "state": "CA",
+    "district": 3,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-213"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/K000401?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "S001188",
+    "name": "Marlin Stutzman",
+    "party": "R",
+    "state": "IN",
+    "district": 3,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/S001188?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "A000379",
+    "name": "Mark Alford",
+    "party": "R",
+    "state": "MO",
+    "district": 4,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/A000379?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "S001211",
+    "name": "Greg Stanton",
+    "party": "D",
+    "state": "AZ",
+    "district": 4,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/S001211?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "G000546",
+    "name": "Sam Graves",
+    "party": "R",
+    "state": "MO",
+    "district": 6,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/G000546?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "P000610",
+    "name": "Stacey Plaskett",
+    "party": "D",
+    "state": "VI",
+    "district": "",
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/P000610?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "W000798",
+    "name": "Tim Walberg",
+    "party": "R",
+    "state": "MI",
+    "district": 5,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/W000798?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "J000301",
+    "name": "Dusty Johnson",
+    "party": "R",
+    "state": "SD",
+    "district": "",
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-165"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/J000301?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C001133",
+    "name": "Juan Ciscomani",
+    "party": "R",
+    "state": "AZ",
+    "district": 6,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-35"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C001133?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "F000450",
+    "name": "Virginia Foxx",
+    "party": "R",
+    "state": "NC",
+    "district": 5,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/F000450?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "H001094",
+    "name": "Val Hoyle",
+    "party": "D",
+    "state": "OR",
+    "district": 4,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-164"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/H001094?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "S001195",
+    "name": "Jason Smith",
+    "party": "R",
+    "state": "MO",
+    "district": 8,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-33"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/S001195?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "N000015",
+    "name": "Richard Neal",
+    "party": "D",
+    "state": "MA",
+    "district": 1,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/N000015?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "S001156",
+    "name": "Linda Sánchez",
+    "party": "D",
+    "state": "CA",
+    "district": 38,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/S001156?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "D000617",
+    "name": "Suzan DelBene",
+    "party": "D",
+    "state": "WA",
+    "district": 1,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/D000617?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "H001082",
+    "name": "Kevin Hern",
+    "party": "R",
+    "state": "OK",
+    "district": 1,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/H001082?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "F000471",
+    "name": "Scott Fitzgerald",
+    "party": "R",
+    "state": "WI",
+    "district": 5,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/F000471?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "G000594",
+    "name": "Tony Gonzales",
+    "party": "R",
+    "state": "TX",
+    "district": 23,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/G000594?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "A000055",
+    "name": "Robert Aderholt",
+    "party": "R",
+    "state": "AL",
+    "district": 4,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/A000055?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "M001199",
+    "name": "Brian Mast",
+    "party": "R",
+    "state": "FL",
+    "district": 21,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/M001199?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "A000375",
+    "name": "Jodey Arrington",
+    "party": "R",
+    "state": "TX",
+    "district": 19,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/A000375?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "J000304",
+    "name": "Ronny Jackson",
+    "party": "R",
+    "state": "TX",
+    "district": 13,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/J000304?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "B001319",
+    "name": "Katie Britt",
+    "party": "R",
+    "state": "AL",
+    "district": "",
+    "committees": [],
+    "sponsoredBillIds": [
+      "s-119-5"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/B001319?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "R000584",
+    "name": "James Risch",
+    "party": "R",
+    "state": "ID",
+    "district": "",
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/R000584?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "S001227",
+    "name": "Eric Schmitt",
+    "party": "R",
+    "state": "MO",
+    "district": "",
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/S001227?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "L000575",
+    "name": "James Lankford",
+    "party": "R",
+    "state": "OK",
+    "district": "",
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/L000575?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C001096",
+    "name": "Kevin Cramer",
+    "party": "R",
+    "state": "ND",
+    "district": "",
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C001096?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "T000278",
+    "name": "Tommy Tuberville",
+    "party": "R",
+    "state": "AL",
+    "district": "",
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/T000278?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "H001061",
+    "name": "John Hoeven",
+    "party": "R",
+    "state": "ND",
+    "district": "",
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/H001061?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "L000577",
+    "name": "Mike Lee",
+    "party": "R",
+    "state": "UT",
+    "district": "",
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/L000577?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "J000293",
+    "name": "Ron Johnson",
+    "party": "R",
+    "state": "WI",
+    "district": "",
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/J000293?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "B001261",
+    "name": "John Barrasso",
+    "party": "R",
+    "state": "WY",
+    "district": "",
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/B001261?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "W000437",
+    "name": "Roger Wicker",
+    "party": "R",
+    "state": "MS",
+    "district": "",
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/W000437?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "L000571",
+    "name": "Cynthia Lummis",
+    "party": "R",
+    "state": "WY",
+    "district": "",
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/L000571?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "T000476",
+    "name": "Thomas Tillis",
+    "party": "R",
+    "state": "NC",
+    "district": "",
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/T000476?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C001095",
+    "name": "Tom Cotton",
+    "party": "R",
+    "state": "AR",
+    "district": "",
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C001095?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "C000880",
+    "name": "Mike Crapo",
+    "party": "R",
+    "state": "ID",
+    "district": "",
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/C000880?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "G000386",
+    "name": "Chuck Grassley",
+    "party": "R",
+    "state": "IA",
+    "district": "",
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/G000386?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "M000355",
+    "name": "Mitch McConnell",
+    "party": "R",
+    "state": "KY",
+    "district": "",
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/M000355?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "M001242",
+    "name": "Bernie Moreno",
+    "party": "R",
+    "state": "OH",
+    "district": "",
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/M001242?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "M000934",
+    "name": "Jerry Moran",
+    "party": "R",
+    "state": "KS",
+    "district": "",
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/M000934?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "G000359",
+    "name": "Lindsey Graham",
+    "party": "R",
+    "state": "SC",
+    "district": "",
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/G000359?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "M001227",
+    "name": "Jennifer McClellan",
+    "party": "D",
+    "state": "VA",
+    "district": 4,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/M001227?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "M001206",
+    "name": "Joseph Morelle",
+    "party": "D",
+    "state": "NY",
+    "district": 25,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/M001206?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "S001159",
+    "name": "Marilyn Strickland",
+    "party": "D",
+    "state": "WA",
+    "district": 10,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/S001159?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "P000608",
+    "name": "Scott Peters",
+    "party": "D",
+    "state": "CA",
+    "district": 50,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/P000608?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "F000462",
+    "name": "Lois Frankel",
+    "party": "D",
+    "state": "FL",
+    "district": 22,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/F000462?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "R000617",
+    "name": "Delia Ramirez",
+    "party": "D",
+    "state": "IL",
+    "district": 3,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/R000617?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "S001145",
+    "name": "Janice Schakowsky",
+    "party": "D",
+    "state": "IL",
+    "district": 9,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/S001145?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "S001205",
+    "name": "Mary Scanlon",
+    "party": "D",
+    "state": "PA",
+    "district": 5,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/S001205?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "G000551",
+    "name": "Raúl Grijalva",
+    "party": "D",
+    "state": "AZ",
+    "district": 7,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/G000551?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "P000607",
+    "name": "Mark Pocan",
+    "party": "D",
+    "state": "WI",
+    "district": 2,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/P000607?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "T000489",
+    "name": "Sylvester Turner",
+    "party": "D",
+    "state": "TX",
+    "district": 18,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/T000489?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "D000628",
+    "name": "Neal Dunn",
+    "party": "R",
+    "state": "FL",
+    "district": 2,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/D000628?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "W000809",
+    "name": "Steve Womack",
+    "party": "R",
+    "state": "AR",
+    "district": 3,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/W000809?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "G000601",
+    "name": "Craig Goldman",
+    "party": "R",
+    "state": "TX",
+    "district": 12,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/G000601?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "B001307",
+    "name": "James Baird",
+    "party": "R",
+    "state": "IN",
+    "district": 4,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/B001307?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "H001099",
+    "name": "Mike Haridopolos",
+    "party": "R",
+    "state": "FL",
+    "district": 8,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/H001099?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "F000482",
+    "name": "Julie Fedorchak",
+    "party": "R",
+    "state": "ND",
+    "district": "",
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/F000482?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "S001189",
+    "name": "Austin Scott",
+    "party": "R",
+    "state": "GA",
+    "district": 8,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/S001189?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "H001081",
+    "name": "Jahana Hayes",
+    "party": "D",
+    "state": "CT",
+    "district": 5,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/H001081?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "J000288",
+    "name": "Henry Johnson",
+    "party": "D",
+    "state": "GA",
+    "district": 4,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/J000288?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "M001229",
+    "name": "LaMonica McIver",
+    "party": "D",
+    "state": "NJ",
+    "district": 10,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/M001229?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "M000312",
+    "name": "James McGovern",
+    "party": "D",
+    "state": "MA",
+    "district": 2,
+    "committees": [],
+    "sponsoredBillIds": [
+      "hr-119-185"
+    ],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/M000312?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "L000582",
+    "name": "Ted Lieu",
+    "party": "D",
+    "state": "CA",
+    "district": 36,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/L000582?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "M001238",
+    "name": "Sarah McBride",
+    "party": "D",
+    "state": "DE",
+    "district": "",
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/M001238?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "L000397",
+    "name": "Zoe Lofgren",
+    "party": "D",
+    "state": "CA",
+    "district": 18,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/L000397?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "M001219",
+    "name": "James Moylan",
+    "party": "R",
+    "state": "GU",
+    "district": "",
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/M001219?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "G000593",
+    "name": "Carlos Gimenez",
+    "party": "R",
+    "state": "FL",
+    "district": 28,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/G000593?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "V000129",
+    "name": "David Valadao",
+    "party": "R",
+    "state": "CA",
+    "district": 22,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/V000129?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "F000472",
+    "name": "Scott Franklin",
+    "party": "R",
+    "state": "FL",
+    "district": 18,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/F000472?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "T000463",
+    "name": "Michael Turner",
+    "party": "R",
+    "state": "OH",
+    "district": 10,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/T000463?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "S001148",
+    "name": "Michael Simpson",
+    "party": "R",
+    "state": "ID",
+    "district": 2,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/S001148?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "B001321",
+    "name": "Tom Barrett",
+    "party": "R",
+    "state": "MI",
+    "district": 7,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/B001321?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "D000623",
+    "name": "Mark DeSaulnier",
+    "party": "D",
+    "state": "CA",
+    "district": 10,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/D000623?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "D000634",
+    "name": "Troy Downing",
+    "party": "R",
+    "state": "MT",
+    "district": 2,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/D000634?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "S000344",
+    "name": "Brad Sherman",
+    "party": "D",
+    "state": "CA",
+    "district": 32,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/S000344?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "E000294",
+    "name": "Tom Emmer",
+    "party": "R",
+    "state": "MN",
+    "district": 6,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/E000294?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "S000250",
+    "name": "Pete Sessions",
+    "party": "R",
+    "state": "TX",
+    "district": 17,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/S000250?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "K000405",
+    "name": "Brad Knott",
+    "party": "R",
+    "state": "NC",
+    "district": 13,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/K000405?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "W000816",
+    "name": "Roger Williams",
+    "party": "R",
+    "state": "TX",
+    "district": 25,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/W000816?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "K000385",
+    "name": "Robin Kelly",
+    "party": "D",
+    "state": "IL",
+    "district": 2,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/K000385?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "N000189",
+    "name": "Dan Newhouse",
+    "party": "R",
+    "state": "WA",
+    "district": 4,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/N000189?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "M001216",
+    "name": "Cory Mills",
+    "party": "R",
+    "state": "FL",
+    "district": 7,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/M001216?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
+  },
+  {
+    "id": "L000597",
+    "name": "Laurel Lee",
+    "party": "R",
+    "state": "FL",
+    "district": 15,
+    "committees": [],
+    "sponsoredBillIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/member/L000597?format=json",
+    "retrievedAt": "2026-11-04T21:11:26.033Z"
   }
 ]
