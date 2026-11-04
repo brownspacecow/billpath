@@ -1,9 +1,122 @@
 [
   {
-    "id": "energy-utilities",
-    "name": "Energy & Utilities",
-    "description": "Reviews utility regulation and clean energy legislation.",
-    "leaders": ["Rep. Ava Martinez"],
-    "memberIds": ["ava-martinez", "jordan-lee"]
+    "id": "hsju00",
+    "name": "Judiciary Committee",
+    "description": "",
+    "chamber": "House",
+    "congress": 119,
+    "leaders": [],
+    "memberIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/committee/house/hsju00?format=json",
+    "retrievedAt": "2026-11-04T20:27:02.900Z"
+  },
+  {
+    "id": "hswm00",
+    "name": "Ways and Means Committee",
+    "description": "",
+    "chamber": "House",
+    "congress": 119,
+    "leaders": [],
+    "memberIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/committee/house/hswm00?format=json",
+    "retrievedAt": "2026-11-04T20:27:02.900Z"
+  },
+  {
+    "id": "hsha00",
+    "name": "Committee on House Administration",
+    "description": "",
+    "chamber": "House",
+    "congress": 119,
+    "leaders": [],
+    "memberIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/committee/house/hsha00?format=json",
+    "retrievedAt": "2026-11-04T20:27:02.900Z"
+  },
+  {
+    "id": "hsba00",
+    "name": "Financial Services Committee",
+    "description": "",
+    "chamber": "House",
+    "congress": 119,
+    "leaders": [],
+    "memberIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/committee/house/hsba00?format=json",
+    "retrievedAt": "2026-11-04T20:27:02.900Z"
+  },
+  {
+    "id": "hsed00",
+    "name": "Education and Workforce Committee",
+    "description": "",
+    "chamber": "House",
+    "congress": 119,
+    "leaders": [],
+    "memberIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/committee/house/hsed00?format=json",
+    "retrievedAt": "2026-11-04T20:27:02.900Z"
+  },
+  {
+    "id": "ssev00",
+    "name": "Environment and Public Works Committee",
+    "description": "",
+    "chamber": "Senate",
+    "congress": 119,
+    "leaders": [],
+    "memberIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/committee/senate/ssev00?format=json",
+    "retrievedAt": "2026-11-04T20:27:02.900Z"
+  },
+  {
+    "id": "hspw00",
+    "name": "Transportation and Infrastructure Committee",
+    "description": "",
+    "chamber": "House",
+    "congress": 119,
+    "leaders": [],
+    "memberIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/committee/house/hspw00?format=json",
+    "retrievedAt": "2026-11-04T20:27:02.900Z"
+  },
+  {
+    "id": "sseg00",
+    "name": "Energy and Natural Resources Committee",
+    "description": "",
+    "chamber": "Senate",
+    "congress": 119,
+    "leaders": [],
+    "memberIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/committee/senate/sseg00?format=json",
+    "retrievedAt": "2026-11-04T20:27:02.900Z"
+  },
+  {
+    "id": "hsag00",
+    "name": "Agriculture Committee",
+    "description": "",
+    "chamber": "House",
+    "congress": 119,
+    "leaders": [],
+    "memberIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/committee/house/hsag00?format=json",
+    "retrievedAt": "2026-11-04T20:27:02.900Z"
+  },
+  {
+    "id": "hsii00",
+    "name": "Natural Resources Committee",
+    "description": "",
+    "chamber": "House",
+    "congress": 119,
+    "leaders": [],
+    "memberIds": [],
+    "source": "congress.gov",
+    "sourceUrl": "https://api.congress.gov/v3/committee/house/hsii00?format=json",
+    "retrievedAt": "2026-11-04T20:27:02.900Z"
   }
 ]

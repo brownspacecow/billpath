@@ -21,6 +21,12 @@ const billVotes = (votes as any).filter((v: any) => v.billId === bill.id);
 <BaseLayout title={`${bill.number} | BillPath`}>
   <section class="card">
     <h1 class="text-2xl font-bold">{bill.number} — {bill.title}</h1>
+    {bill.source && bill.sourceUrl ? (
+      <div class="mt-2 text-xs text-slate-500">
+        Source: <a href={bill.sourceUrl} target="_blank" rel="noopener noreferrer">{bill.source}</a>
+        {bill.retrievedAt ? ` | Retrieved: ${new Date(bill.retrievedAt).toLocaleDateString()}` : ''}
+      </div>
+    ) : null}
     <button id="follow-btn" class="mt-2 rounded border border-slate-300 px-3 py-1 text-sm">Follow bill</button>
     <div class="mt-2 grid gap-2 md:grid-cols-3">
       <div>
@@ -38,6 +44,52 @@ const billVotes = (votes as any).filter((v: any) => v.billId === bill.id);
         <div>Days Active: {bill.daysActive}</div>
       </div>
     </div>
+
+    {bill.chamber && (
+      <div class="mt-2 grid gap-2 md:grid-cols-3">
+        <div>
+          <div class="text-sm text-slate-500">Chamber</div>
+          <div>{bill.chamber}</div>
+        </div>
+        <div>
+          <div class="text-sm text-slate-500">Congress</div>
+          <div>{bill.congress ?? 'N/A'}</div>
+        </div>
+        <div>
+          <div class="text-sm text-slate-500">Bill Type</div>
+          <div>{bill.billType ?? 'N/A'}</div>
+        </div>
+      </div>
+    )}
+
+    {bill.introducedDate && (
+      <div class="mt-2">
+        <div class="text-sm text-slate-500">Introduced</div>
+        <div>{bill.introducedDate}</div>
+      </div>
+    )}
+
+    {bill.cosponsors && bill.cosponsors.length > 0 && (
+      <section class="mt-4 card">
+        <h2 class="section-title">Cosponsors ({bill.cosponsors.length})</h2>
+        <ul class="mt-2 space-y-1 text-sm">
+          {bill.cosponsors.map((c: any) => (
+            <li>{c.name} ({c.party}, {c.state})</li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    {bill.committees && bill.committees.length > 0 && (
+      <section class="mt-4 card">
+        <h2 class="section-title">Committees</h2>
+        <ul class="mt-2 space-y-1 text-sm">
+          {bill.committees.map((c: string) => (
+            <li>{c}</li>
+          ))}
+        </ul>
+      </section>
+    )}
   </section>
 
   <section>
@@ -62,9 +114,11 @@ const billVotes = (votes as any).filter((v: any) => v.billId === bill.id);
   </section>
 
   <section class="card">
-    <h2 class="section-title">AI Generated Summary</h2>
-    <p class="text-sm">Generated Date: 2026-11-04 | Last Updated: 2026-11-04</p>
-    <p>{bill.aiSummary}</p>
+    <h2 class="section-title">Summary</h2>
+    <p class="text-sm">{bill.summary || bill.aiSummary}</p>
+    {bill.source ? (
+      <p class="text-xs text-slate-500 mt-2">Data source: {bill.source}</p>
+    ) : null}
   </section>
 
   <script is:inline define:vars={{ billId: bill.id }}>

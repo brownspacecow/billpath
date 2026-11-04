@@ -1,22 +1,14 @@
 [
   {
     "date": "2026-11-04",
-    "introduced": 12,
-    "enteredCommittee": 5,
-    "hearings": 3,
-    "passedChamber": 2,
-    "signed": 1,
-    "mostActiveCommittee": "Agriculture",
-    "mostFollowedBill": "HB-221"
-  },
-  {
-    "date": "2026-11-03",
-    "introduced": 8,
+    "introduced": 0,
     "enteredCommittee": 6,
-    "hearings": 2,
-    "passedChamber": 1,
-    "signed": 0,
-    "mostActiveCommittee": "Health",
-    "mostFollowedBill": "SB-109"
+    "hearings": 0,
+    "passedChamber": 0,
+    "signed": 1,
+    "mostActiveCommittee": "Judiciary Committee",
+    "mostFollowedBill": "HR 134",
+    "source": "congress.gov",
+    "retrievedAt": "2026-11-04T20:27:02.900Z"
   }
 ]
