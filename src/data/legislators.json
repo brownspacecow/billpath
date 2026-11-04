@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ava-martinez",
+    "name": "Rep. Ava Martinez",
+    "party": "D",
+    "state": "CO",
+    "district": "12",
+    "committees": ["Energy & Utilities"],
+    "sponsoredBillIds": ["hb-221"]
+  },
+  {
+    "id": "jordan-lee",
+    "name": "Rep. Jordan Lee",
+    "party": "I",
+    "state": "NM",
+    "district": "4",
+    "committees": ["Education"],
+    "sponsoredBillIds": ["hb-412"]
+  }
+]

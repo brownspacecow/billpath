@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://brownspacecow.github.io/billpath/sitemap-index.xml

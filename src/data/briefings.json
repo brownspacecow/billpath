@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2026-11-04",
+    "introduced": 12,
+    "enteredCommittee": 5,
+    "hearings": 3,
+    "passedChamber": 2,
+    "signed": 1,
+    "mostActiveCommittee": "Agriculture",
+    "mostFollowedBill": "HB-221"
+  },
+  {
+    "date": "2026-11-03",
+    "introduced": 8,
+    "enteredCommittee": 6,
+    "hearings": 2,
+    "passedChamber": 1,
+    "signed": 0,
+    "mostActiveCommittee": "Health",
+    "mostFollowedBill": "SB-109"
+  }
+]

@@ -1,0 +1,44 @@
+---
+import '../styles/global.css';
+const { title = 'BillPath', description = "Follow Every Bill's Journey From Introduction to Law" } = Astro.props;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/svg+xml" href="/billpath/favicon.svg" />
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical.toString()} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonical.toString()} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': 'WebSite',
+      name: 'BillPath',
+      url: Astro.site,
+      description,
+    })} />
+    <title>{title}</title>
+  </head>
+  <body>
+    <header class="border-b border-slate-200 bg-white/90 dark:border-slate-700 dark:bg-slate-900/90">
+      <nav class="mx-auto flex max-w-6xl gap-4 p-4 text-sm">
+        <a href="/billpath/" class="font-bold text-blue-700">BillPath</a>
+        <a href="/billpath/bills">Bills</a>
+        <a href="/billpath/stalled">Stalled</a>
+        <a href="/billpath/following">Following</a>
+        <a href="/billpath/education">How Lawmaking Works</a>
+      </nav>
+    </header>
+    <main class="mx-auto max-w-6xl space-y-6 p-4">
+      <slot />
+    </main>
+  </body>
+</html>

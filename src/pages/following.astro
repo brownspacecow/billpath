@@ -1,0 +1,21 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import bills from '../data/bills.json';
+---
+<BaseLayout title="Following | BillPath">
+  <h1 class="section-title">Followed Bills</h1>
+  <p class="text-sm text-slate-500">Stored locally in your browser (no login required).</p>
+  <div id="following-list" class="mt-3 grid gap-3"></div>
+
+  <script is:inline>
+    const bills = JSON.parse(String.raw`${JSON.stringify(bills)}`);
+    const followed = JSON.parse(localStorage.getItem('billpath-following') || '[]');
+    const container = document.getElementById('following-list');
+    const selected = bills.filter((b) => followed.includes(b.id));
+    if (!selected.length) {
+      container.innerHTML = '<div class="card">No followed bills yet. Open a bill page and click Follow.</div>';
+    } else {
+      container.innerHTML = selected.map((b) => `<a href="/billpath/bills/${b.id}" class="card block"><strong>${b.number}</strong> ${b.title}<br/>${b.progress}% • ${b.currentStage} • last moved ${b.lastActivityDaysAgo} days ago</a>`).join('');
+    }
+  </script>
+</BaseLayout>

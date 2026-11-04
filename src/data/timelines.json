@@ -1,0 +1,12 @@
+{
+  "hb-221": [
+    { "date": "2026-01-05", "stage": "Introduced", "label": "Introduced", "status": "complete" },
+    { "date": "2026-01-11", "stage": "Committee Assignment", "label": "Assigned To Committee", "status": "complete" },
+    { "date": "2026-01-28", "stage": "Public Hearing", "label": "Committee Hearing", "status": "complete" },
+    { "date": "2026-02-05", "stage": "Committee Vote", "label": "Reported Favorably", "status": "complete" },
+    { "date": "2026-02-18", "stage": "Passed Chamber", "label": "Passed House", "status": "current" },
+    { "date": "", "stage": "Second Chamber", "label": "Awaiting Senate Action", "status": "upcoming" },
+    { "date": "", "stage": "Executive Review", "label": "Executive Review", "status": "upcoming" },
+    { "date": "", "stage": "Signed Into Law", "label": "Signed Into Law", "status": "upcoming" }
+  ]
+}

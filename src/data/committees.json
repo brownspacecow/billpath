@@ -1,0 +1,9 @@
+[
+  {
+    "id": "energy-utilities",
+    "name": "Energy & Utilities",
+    "description": "Reviews utility regulation and clean energy legislation.",
+    "leaders": ["Rep. Ava Martinez"],
+    "memberIds": ["ava-martinez", "jordan-lee"]
+  }
+]
