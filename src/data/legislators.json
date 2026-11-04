@@ -11,7 +11,7 @@
     ],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/B001260?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "I000056",
@@ -23,7 +23,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/I000056?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "S001212",
@@ -35,7 +35,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/S001212?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "M001157",
@@ -47,7 +47,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/M001157?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "B001295",
@@ -59,7 +59,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/B001295?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "W000814",
@@ -71,7 +71,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/W000814?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "E000246",
@@ -83,7 +83,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/E000246?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "V000135",
@@ -95,7 +95,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/V000135?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "D000032",
@@ -107,7 +107,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/D000032?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "B001302",
@@ -121,7 +121,7 @@
     ],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/B001302?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "S001214",
@@ -135,7 +135,7 @@
     ],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/S001214?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "M000317",
@@ -149,7 +149,7 @@
     ],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/M000317?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "L000601",
@@ -161,7 +161,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/L000601?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "L000557",
@@ -173,7 +173,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/L000557?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "S001201",
@@ -185,7 +185,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/S001201?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "N000191",
@@ -197,7 +197,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/N000191?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "F000466",
@@ -209,7 +209,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/F000466?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "V000138",
@@ -221,7 +221,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/V000138?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "L000599",
@@ -233,7 +233,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/L000599?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "M001160",
@@ -245,7 +245,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/M001160?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "W000804",
@@ -259,7 +259,7 @@
     ],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/W000804?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "O000177",
@@ -271,7 +271,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/O000177?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "K000399",
@@ -283,7 +283,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/K000399?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "G000553",
@@ -298,7 +298,7 @@
     ],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/G000553?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "F000468",
@@ -310,7 +310,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/F000468?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "T000481",
@@ -322,7 +322,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/T000481?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "W000798",
@@ -334,7 +334,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/W000798?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "E000298",
@@ -346,7 +346,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/E000298?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "H001093",
@@ -358,7 +358,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/H001093?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "F000475",
@@ -370,7 +370,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/F000475?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "H001077",
@@ -382,7 +382,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/H001077?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "F000469",
@@ -394,7 +394,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/F000469?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "M000194",
@@ -406,7 +406,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/M000194?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "O000175",
@@ -418,7 +418,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/O000175?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "H001096",
@@ -430,7 +430,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/H001096?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "B001257",
@@ -442,7 +442,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/B001257?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "C001120",
@@ -454,7 +454,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/C001120?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "G000589",
@@ -466,7 +466,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/G000589?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "M001204",
@@ -478,7 +478,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/M001204?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "J000301",
@@ -490,7 +490,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/J000301?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "B001317",
@@ -502,7 +502,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/B001317?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "O000086",
@@ -514,7 +514,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/O000086?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "C001133",
@@ -526,7 +526,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/C001133?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "F000450",
@@ -538,7 +538,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/F000450?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "E000235",
@@ -550,7 +550,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/E000235?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "C001068",
@@ -564,7 +564,7 @@
     ],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/C001068?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "B001309",
@@ -576,7 +576,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/B001309?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "R000614",
@@ -590,7 +590,7 @@
     ],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/R000614?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "G000597",
@@ -602,7 +602,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/G000597?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "C001116",
@@ -614,7 +614,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/C001116?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "H001086",
@@ -626,7 +626,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/H001086?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "C001039",
@@ -638,7 +638,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/C001039?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "B001316",
@@ -650,7 +650,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/B001316?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "N000026",
@@ -662,7 +662,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/N000026?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "S001224",
@@ -674,7 +674,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/S001224?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "P000609",
@@ -686,7 +686,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/P000609?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "C001132",
@@ -698,7 +698,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/C001132?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "H001095",
@@ -710,7 +710,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/H001095?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "C001118",
@@ -722,7 +722,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/C001118?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "N000190",
@@ -734,7 +734,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/N000190?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "M001213",
@@ -748,7 +748,7 @@
     ],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/M001213?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "P000613",
@@ -760,7 +760,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/P000613?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "D000624",
@@ -772,7 +772,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/D000624?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "A000372",
@@ -784,7 +784,7 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/A000372?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   },
   {
     "id": "S001228",
@@ -796,6 +796,6 @@
     "sponsoredBillIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/member/S001228?format=json",
-    "retrievedAt": "2026-11-04T20:27:02.900Z"
+    "retrievedAt": "2026-11-04T20:52:26.011Z"
   }
 ]
