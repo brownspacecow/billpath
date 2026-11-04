@@ -35,8 +35,17 @@ import {
 
 const DATA_DIR = path.resolve(import.meta.dirname, '../src/data');
 const DEFAULT_CONGRESS = 119;
-const MAX_BILLS_PER_RUN = 10; // Respect rate limits
+const DEFAULT_BILLS_PER_RUN = 250;
 const REQUEST_DELAY_MS = 1000; // 1 second between requests
+
+const billsPerRun = Number.parseInt(
+  process.env.BILLS_PER_RUN || String(DEFAULT_BILLS_PER_RUN),
+  10
+);
+
+if (!Number.isInteger(billsPerRun) || billsPerRun < 1 || billsPerRun > 250) {
+  throw new Error('BILLS_PER_RUN must be an integer between 1 and 250.');
+}
 
 function ensureDir(dir) {
   if (!fs.existsSync(dir)) {
@@ -69,7 +78,7 @@ async function ingest() {
   console.log(`[1/7] Fetching bills from Congress.gov...`);
   let bills;
   try {
-    bills = await fetchBills(congress, { limit: MAX_BILLS_PER_RUN });
+    bills = await fetchBills(congress, { limit: billsPerRun });
     console.log(`  Found ${bills.length} bills`);
   } catch (err) {
     console.error(`  Failed to fetch bills: ${err.message}`);
