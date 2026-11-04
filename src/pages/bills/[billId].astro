@@ -67,8 +67,7 @@ const billVotes = (votes as any).filter((v: any) => v.billId === bill.id);
     <p>{bill.aiSummary}</p>
   </section>
 
-  <script is:inline>
-    const billId = {JSON.stringify(bill.id)};
+  <script is:inline define:vars={{ billId: bill.id }}>
     const key = 'billpath-following';
     const btn = document.getElementById('follow-btn');
     const getItems = () => JSON.parse(localStorage.getItem(key) || '[]');

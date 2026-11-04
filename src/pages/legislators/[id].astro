@@ -7,7 +7,8 @@ export function getStaticPaths() {
   return (legislators as any).map((l: any) => ({ params: { id: l.id } }));
 }
 
-const legislator = (legislators as any).find((l: any) => l.id === Astro.params.id);
+const id = (Astro.params as { id: string }).id;
+const legislator = (legislators as any).find((l: any) => l.id === id);
 if (!legislator) throw new Error('Legislator not found');
 const sponsored = (bills as any).filter((b: any) => legislator.sponsoredBillIds.includes(b.id));
 ---

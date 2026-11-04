@@ -7,7 +7,8 @@ export function getStaticPaths() {
   return (committees as any).map((c: any) => ({ params: { id: c.id } }));
 }
 
-const committee = (committees as any).find((c: any) => c.id === Astro.params.id);
+const id = (Astro.params as { id: string }).id;
+const committee = (committees as any).find((c: any) => c.id === id);
 if (!committee) throw new Error('Committee not found');
 const assigned = (bills as any).filter((b: any) => b.committee === committee.name);
 ---

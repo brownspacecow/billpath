@@ -7,7 +7,8 @@ export function getStaticPaths() {
   return (votes as any).map((v: any) => ({ params: { id: v.id } }));
 }
 
-const vote = (votes as any).find((v: any) => v.id === Astro.params.id);
+const id = (Astro.params as { id: string }).id;
+const vote = (votes as any).find((v: any) => v.id === id);
 if (!vote) throw new Error('Vote not found');
 const bill = (bills as any).find((b: any) => b.id === vote.billId);
 ---
