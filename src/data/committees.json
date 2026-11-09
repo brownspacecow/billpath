@@ -9,7 +9,7 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/house/hsju00?format=json",
-    "retrievedAt": "2026-11-08T04:32:44.339Z"
+    "retrievedAt": "2026-11-09T04:44:52.745Z"
   },
   {
     "id": "hswm00",
@@ -21,7 +21,7 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/house/hswm00?format=json",
-    "retrievedAt": "2026-11-08T04:32:44.339Z"
+    "retrievedAt": "2026-11-09T04:44:52.745Z"
   },
   {
     "id": "hsha00",
@@ -33,7 +33,7 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/house/hsha00?format=json",
-    "retrievedAt": "2026-11-08T04:32:44.339Z"
+    "retrievedAt": "2026-11-09T04:44:52.745Z"
   },
   {
     "id": "hsba00",
@@ -45,7 +45,7 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/house/hsba00?format=json",
-    "retrievedAt": "2026-11-08T04:32:44.339Z"
+    "retrievedAt": "2026-11-09T04:44:52.745Z"
   },
   {
     "id": "hsgo00",
@@ -57,7 +57,7 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/house/hsgo00?format=json",
-    "retrievedAt": "2026-11-08T04:32:44.339Z"
+    "retrievedAt": "2026-11-09T04:44:52.745Z"
   },
   {
     "id": "hsii00",
@@ -69,7 +69,7 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/house/hsii00?format=json",
-    "retrievedAt": "2026-11-08T04:32:44.339Z"
+    "retrievedAt": "2026-11-09T04:44:52.745Z"
   },
   {
     "id": "hsif00",
@@ -81,7 +81,7 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/house/hsif00?format=json",
-    "retrievedAt": "2026-11-08T04:32:44.339Z"
+    "retrievedAt": "2026-11-09T04:44:52.745Z"
   },
   {
     "id": "hsfa00",
@@ -93,7 +93,7 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/house/hsfa00?format=json",
-    "retrievedAt": "2026-11-08T04:32:44.339Z"
+    "retrievedAt": "2026-11-09T04:44:52.745Z"
   },
   {
     "id": "hsed00",
@@ -105,7 +105,7 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/house/hsed00?format=json",
-    "retrievedAt": "2026-11-08T04:32:44.339Z"
+    "retrievedAt": "2026-11-09T04:44:52.745Z"
   },
   {
     "id": "hssy00",
@@ -117,7 +117,7 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/house/hssy00?format=json",
-    "retrievedAt": "2026-11-08T04:32:44.339Z"
+    "retrievedAt": "2026-11-09T04:44:52.745Z"
   },
   {
     "id": "hsap00",
@@ -129,7 +129,7 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/house/hsap00?format=json",
-    "retrievedAt": "2026-11-08T04:32:44.339Z"
+    "retrievedAt": "2026-11-09T04:44:52.745Z"
   },
   {
     "id": "hsru00",
@@ -141,7 +141,7 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/house/hsru00?format=json",
-    "retrievedAt": "2026-11-08T04:32:44.339Z"
+    "retrievedAt": "2026-11-09T04:44:52.745Z"
   },
   {
     "id": "hsbu00",
@@ -153,7 +153,7 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/house/hsbu00?format=json",
-    "retrievedAt": "2026-11-08T04:32:44.339Z"
+    "retrievedAt": "2026-11-09T04:44:52.745Z"
   },
   {
     "id": "hshm00",
@@ -165,7 +165,7 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/house/hshm00?format=json",
-    "retrievedAt": "2026-11-08T04:32:44.339Z"
+    "retrievedAt": "2026-11-09T04:44:52.745Z"
   },
   {
     "id": "hsas00",
@@ -177,7 +177,7 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/house/hsas00?format=json",
-    "retrievedAt": "2026-11-08T04:32:44.339Z"
+    "retrievedAt": "2026-11-09T04:44:52.745Z"
   },
   {
     "id": "hspw00",
@@ -189,7 +189,7 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/house/hspw00?format=json",
-    "retrievedAt": "2026-11-08T04:32:44.339Z"
+    "retrievedAt": "2026-11-09T04:44:52.745Z"
   },
   {
     "id": "hsag00",
@@ -201,7 +201,7 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/house/hsag00?format=json",
-    "retrievedAt": "2026-11-08T04:32:44.339Z"
+    "retrievedAt": "2026-11-09T04:44:52.745Z"
   },
   {
     "id": "hlig00",
@@ -213,7 +213,7 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/house/hlig00?format=json",
-    "retrievedAt": "2026-11-08T04:32:44.339Z"
+    "retrievedAt": "2026-11-09T04:44:52.745Z"
   },
   {
     "id": "ssbk00",
@@ -225,7 +225,7 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/senate/ssbk00?format=json",
-    "retrievedAt": "2026-11-08T04:32:44.339Z"
+    "retrievedAt": "2026-11-09T04:44:52.745Z"
   },
   {
     "id": "sscm00",
@@ -237,7 +237,7 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/senate/sscm00?format=json",
-    "retrievedAt": "2026-11-08T04:32:44.339Z"
+    "retrievedAt": "2026-11-09T04:44:52.745Z"
   },
   {
     "id": "ssga00",
@@ -249,7 +249,7 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/senate/ssga00?format=json",
-    "retrievedAt": "2026-11-08T04:32:44.339Z"
+    "retrievedAt": "2026-11-09T04:44:52.745Z"
   },
   {
     "id": "hssm00",
@@ -261,7 +261,7 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/house/hssm00?format=json",
-    "retrievedAt": "2026-11-08T04:32:44.339Z"
+    "retrievedAt": "2026-11-09T04:44:52.745Z"
   },
   {
     "id": "ssev00",
@@ -273,7 +273,7 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/senate/ssev00?format=json",
-    "retrievedAt": "2026-11-08T04:32:44.339Z"
+    "retrievedAt": "2026-11-09T04:44:52.745Z"
   },
   {
     "id": "ssfi00",
@@ -285,7 +285,7 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/senate/ssfi00?format=json",
-    "retrievedAt": "2026-11-08T04:32:44.339Z"
+    "retrievedAt": "2026-11-09T04:44:52.745Z"
   },
   {
     "id": "ssju00",
@@ -297,7 +297,7 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/senate/ssju00?format=json",
-    "retrievedAt": "2026-11-08T04:32:44.339Z"
+    "retrievedAt": "2026-11-09T04:44:52.745Z"
   },
   {
     "id": "hsvr00",
@@ -309,7 +309,7 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/house/hsvr00?format=json",
-    "retrievedAt": "2026-11-08T04:32:44.339Z"
+    "retrievedAt": "2026-11-09T04:44:52.745Z"
   },
   {
     "id": "sseg00",
@@ -321,7 +321,7 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/senate/sseg00?format=json",
-    "retrievedAt": "2026-11-08T04:32:44.339Z"
+    "retrievedAt": "2026-11-09T04:44:52.745Z"
   },
   {
     "id": "hsso00",
@@ -333,7 +333,7 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/house/hsso00?format=json",
-    "retrievedAt": "2026-11-08T04:32:44.339Z"
+    "retrievedAt": "2026-11-09T04:44:52.745Z"
   },
   {
     "id": "ssaf00",
@@ -345,7 +345,7 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/senate/ssaf00?format=json",
-    "retrievedAt": "2026-11-08T04:32:44.339Z"
+    "retrievedAt": "2026-11-09T04:44:52.745Z"
   },
   {
     "id": "slia00",
@@ -357,6 +357,6 @@
     "memberIds": [],
     "source": "congress.gov",
     "sourceUrl": "https://api.congress.gov/v3/committee/senate/slia00?format=json",
-    "retrievedAt": "2026-11-08T04:32:44.339Z"
+    "retrievedAt": "2026-11-09T04:44:52.745Z"
   }
 ]
