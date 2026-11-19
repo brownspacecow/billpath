@@ -8947,32 +8947,6 @@
       "status": "current"
     }
   ],
-  "hr-119-177": [
-    {
-      "date": "2025-01-03",
-      "stage": "Committee Assignment",
-      "label": "Referred to the House Committee on Natural Resources.",
-      "status": "current"
-    },
-    {
-      "date": "2025-01-03",
-      "stage": "Introduced",
-      "label": "Introduced in House",
-      "status": "complete"
-    },
-    {
-      "date": "2025-01-03",
-      "stage": "Introduced",
-      "label": "Introduced in House",
-      "status": "complete"
-    },
-    {
-      "date": "2026-09-10",
-      "stage": "Committee Assignment",
-      "label": "Referred to the Subcommittee on Water, Wildlife and Fisheries.",
-      "status": "current"
-    }
-  ],
   "hr-119-184": [
     {
       "date": "2025-01-03",
@@ -9064,6 +9038,38 @@
       "date": "2026-09-15",
       "stage": "Committee Review",
       "label": "Committee Consideration and Mark-up Session Held",
+      "status": "current"
+    }
+  ],
+  "hr-119-177": [
+    {
+      "date": "2025-01-03",
+      "stage": "Committee Assignment",
+      "label": "Referred to the House Committee on Natural Resources.",
+      "status": "complete"
+    },
+    {
+      "date": "2025-01-03",
+      "stage": "Introduced",
+      "label": "Introduced in House",
+      "status": "complete"
+    },
+    {
+      "date": "2025-01-03",
+      "stage": "Introduced",
+      "label": "Introduced in House",
+      "status": "complete"
+    },
+    {
+      "date": "2026-09-10",
+      "stage": "Committee Assignment",
+      "label": "Referred to the Subcommittee on Water, Wildlife and Fisheries.",
+      "status": "complete"
+    },
+    {
+      "date": "2026-09-16",
+      "stage": "Public Hearing",
+      "label": "Subcommittee Hearings Held",
       "status": "current"
     }
   ]

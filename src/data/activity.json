@@ -1,5 +1,13 @@
 [
   {
+    "id": "action-hr-119-177-4",
+    "billId": "hr-119-177",
+    "billNumber": "HR 177",
+    "text": "Subcommittee Hearings Held",
+    "stage": "Public Hearing",
+    "timestamp": "2026-09-16"
+  },
+  {
     "id": "action-hr-119-184-7",
     "billId": "hr-119-184",
     "billNumber": "HR 184",
@@ -390,13 +398,5 @@
     "text": "Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-619.",
     "stage": "Committee Vote",
     "timestamp": "2026-04-21"
-  },
-  {
-    "id": "action-hr-119-41-5",
-    "billId": "hr-119-41",
-    "billNumber": "HR 41",
-    "text": "Placed on the Union Calendar, Calendar No. 499.",
-    "stage": "Committee Review",
-    "timestamp": "2026-04-02"
   }
 ]
